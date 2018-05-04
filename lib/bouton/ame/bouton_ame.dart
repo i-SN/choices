@@ -38,5 +38,5 @@ Bouton(this.bouton, this.bouton1, this.bouton2);
   // ------> A COMPLETER <------ //
 
 List<Bouton> boutonchoix =[
-  new Bouton(0, 0, 0)
+  new Bouton(0, 0, 0),
 ];

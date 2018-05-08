@@ -15,7 +15,7 @@ List<Texte> text = [
   new TextSpan(text:'I\'m dedicating every day to you \n',
   style: hero ), 2),
   new Texte(
-  new TextSpan(text:'I\'m dedicating every day to you \n',
+  new TextSpan(text:'I\'m dedicating every day to you  \n',
   style: cauchemar ), 2),
   new Texte(
   new TextSpan(text:'I\'m dedicating every day to you \n',

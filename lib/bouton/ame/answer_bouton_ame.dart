@@ -1,13 +1,20 @@
 import 'package:flutter/material.dart';
 import '../../pages/landing_page.dart';
-import '../../histoire/ame/home.dart';
+import '../../histoire/home.1.dart';
 
 // LIEU // --> AME
   String lieu="ame";
 
+//fond
+Color couleur= Colors.white;//bouton
+
 // TEXTE DES BOUTONS // 
 List<Text> texte=[
-  new Text("refefzv efvsc ff",
+  new Text("Mais je vois encore. Mon œil droit va bien", textAlign: TextAlign.center,
+  style: ame,),
+    new Text("-Charlotte sera obligé d'ouvrir les yeux…", textAlign: TextAlign.center,
+  style: ame,),
+    new Text("Je me retourne, j'ouvre mon unique oeil", textAlign: TextAlign.center,
   style: ame,)
 ];
 
@@ -21,7 +28,8 @@ TextStyle hero = new TextStyle( color: lieu=="void" ? Colors.black : Colors.whit
 
 // ROUTES // 
 List<Widget> chemin=[
-  new AmePage("nom"),
+  new Intro("nom"),
+  new LandingPage(),
 ];
 
 class AnswerButton extends StatelessWidget {
@@ -34,29 +42,32 @@ class AnswerButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return new Expanded( 
+    return new Expanded(
       child: new Container(
-        padding: new EdgeInsets.fromLTRB(80.0, 0.0, 80.0, 0.0),
-        child: new InkWell(
-          onTap: () {
-            return Navigator.of(context).push(new MaterialPageRoute(builder: (BuildContext context) => chemin[chemins]));
-          }, 
-          
+        padding: new EdgeInsets.fromLTRB(60.0, 0.0, 60.0, 0.0),
           child: new Center(
-            child: new Container(
-              decoration: new BoxDecoration(
-                border: new Border.all(color: texte[text].style.color, width: 5.0)
-              ),
-              padding: new EdgeInsets.all(10.0),
-              child: texte[text],
+            child: new Material(
+        borderRadius: new BorderRadius.circular(50.0),
+        shadowColor: Colors.black54,
+        elevation: 2.0,
+        child: new MaterialButton(
+          minWidth: 300.0,
+          onPressed: () {
+          return Navigator.of(context).push(new MaterialPageRoute(builder: (BuildContext context) => chemin[chemins]));
+          },
+          color: couleur,
+          padding: new EdgeInsets.fromLTRB(15.0, 20.0, 15.0, 20.0),
+          child: texte[text],
+             ),
+          ),          
             )
-          ),
         ),
-      ),
     );
   }
 }
 
 List<AnswerButton> choix=[
- new AnswerButton(0, 0)
+ new AnswerButton(0, 0),
+ new AnswerButton(1, 1),
+ new AnswerButton(2, 0)
 ];

@@ -3,6 +3,8 @@ import './answer_bouton_ame.dart';
 
 // LIEU // --> AME
 
+//fond
+Color couleurfond= Colors.amberAccent;
 
 // CLASSE BOUTON //
 
@@ -17,7 +19,7 @@ Bouton(this.bouton, this.bouton1, this.bouton2);
   @override
   Widget build(BuildContext context) {
     return new Material(
-      color: Colors.deepPurpleAccent, // background
+      color: couleurfond, // background
       child: new Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[ 
@@ -38,5 +40,5 @@ Bouton(this.bouton, this.bouton1, this.bouton2);
   // ------> A COMPLETER <------ //
 
 List<Bouton> boutonchoix =[
-  new Bouton(0, 0, 0),
+  new Bouton(0, 1, 2),
 ];

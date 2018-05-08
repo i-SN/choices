@@ -21,8 +21,8 @@ List<Texte> text = [
   new TextSpan(text:'I\'m dedicating every day to you \n',
   style: reve ), 2),
   new Texte(
-  new TextSpan(text:'I\'m dedicating every day to you \n',
-  style: ame ), 2),
+  new TextSpan(text:'I\'m dedicating every day to you I\'m dedicating every day to you \n',
+  style: ame ), 3),
   
   ];
 

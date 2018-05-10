@@ -2,13 +2,42 @@ import 'package:flutter/material.dart';
 
 // TEXTE // 
 
-    class Texte {
+class Texte{
 
-    TextSpan texte; //texte //  
-    int ligne; // ligne //
+  TextSpan texte; //texte //  
+  int ligne; // ligne //
+  String nom;
+  List<Texte> text;
 
-    Texte(this.texte, this.ligne);
-    }
+/**
+ * @param l nombre de lignes
+ * @param n nom du joueur
+ */
+  Texte(int l, String n){
+    this.nom = n;
+    this.ligne = l;
+    initialiserTexte();
+  }
+
+  void initialiserTextedz(){
+    text = [
+  new Texte(
+  new TextSpan(text:'I\'m dedicating every day to you \n',
+  style: hero ), 2),
+  new Texte(
+  new TextSpan(text:'I\'m dedicating every day to you \n',
+  style: cauchemar ), 2),
+  new Texte(
+  new TextSpan(text:'I\'m dedicating every day to you \n',
+  style: reve ), 2),
+  new Texte(
+  new TextSpan(text:'I\'m dedicating every day to you I\'m dedicating every day to you \n',
+  style: ame ), 3),
+  
+  ];
+  }
+  
+}
 
 List<Texte> text = [
   new Texte(

@@ -32,6 +32,10 @@ flutter:
   
   assets: 
     - assets/images/background.jpg
+    - assets/images/background.png
+    - assets/images/background/reve.png
+    - assets/images/background/outside.png
+    - assets/images/background/home.png
     - assets/images/sexe/woman_black.png
     - assets/images/sexe/woman_silver.png
     - assets/images/sexe/woman_white.png

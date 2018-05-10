@@ -12,7 +12,7 @@ class LoginscreenState extends State<Loginscreen> {
 
   bool enable = false ;
   bool femme = true;
-  String _text = ''; 
+  String _text = ''; //nom du joueur
 
   void onPressed() {
     _text=_controller.text;

@@ -9,8 +9,8 @@ class LandingPage extends StatelessWidget {
       color: Colors.amberAccent,
       child:
       new Container(
-      // decoration: new BoxDecoration(image: 
-      // new DecorationImage(fit: BoxFit.fitHeight ,image: new AssetImage("assets/images/background.jpg"),)),
+      decoration: new BoxDecoration(image: 
+      new DecorationImage(fit: BoxFit.fitWidth ,image: new AssetImage("assets/images/background.png"),)),
       child:
       new InkWell(
         splashColor: Colors.grey[500],
@@ -20,7 +20,7 @@ class LandingPage extends StatelessWidget {
           children: <Widget>[
             new Text("Musing", style: new TextStyle(fontFamily:'Hoodson' , color: Colors.white, fontSize: 100.0),),
             new Text("' Tap to start ! '", style: new TextStyle(letterSpacing: 2.0, color: Colors.white, fontSize: 18.0),),
-            new Padding(padding: new EdgeInsets.only(bottom: 250.0))
+            new Padding(padding: new EdgeInsets.only(bottom: 300.0))
           ],
         ),
       ),

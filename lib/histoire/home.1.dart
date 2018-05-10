@@ -84,9 +84,12 @@ IntroState(this.nom);
   Widget build(BuildContext context) {
     return new Material(
       child: new Container(
-      color: lieu=="reve" ? Colors.grey[350] : Colors.amberAccent,
+      // color: lieu=="reve" ? Colors.grey[350] : Colors.amberAccent,
       // BACKGROUND //
-       // decoration: new BoxDecoration(image: new DecorationImage(fit: BoxFit.fitHeight ,image: new AssetImage("assets/images/background.jpg"),)),
+      decoration: new BoxDecoration(
+        image: new DecorationImage(
+        fit: BoxFit.fitWidth, 
+        image: lieu=="reve" ? new AssetImage("assets/images/background/reve.png"): new AssetImage("assets/images/background/home.png")),),
 
       // --  ----- -- // 
       // --  CORPS -- // 

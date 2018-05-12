@@ -100,6 +100,8 @@ void onPressed2() {
               child: new Icon(Icons.people, size:70.0, color: Colors.white,),
             ),
 
+            new Padding(padding: new EdgeInsets.only(top:50.0),),
+            
             // new Text("Bonjour ", style: new TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 30.0),),
             // new Text(nom.toUpperCase(),  style: new TextStyle(letterSpacing: 2.0, color: Colors.white, fontWeight: FontWeight.w300, fontSize: 50.0),),
             

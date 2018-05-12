@@ -16,12 +16,12 @@ int ligne;
 
 
 // nouvelle page :
-class Choix9 extends StatefulWidget {
+class Choix1 extends StatefulWidget {
 
-  List<int> numeroligne=[109,110,111,112,113,114,115,116,117]; // numéro des paragraphe
+  List<int> numeroligne=[11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32]; // numéro des paragraphe
   final String nom; // nom du personnage
   bool sexe;
-Choix9(this.nom, this.sexe){
+Choix1(this.nom, this.sexe){
   dialogue=dialoguepage;
 TexteConstructor para =new TexteConstructor(numeroligne, nom, sexe);
   dialoguepage= dialogue;
@@ -31,17 +31,17 @@ TexteConstructor para =new TexteConstructor(numeroligne, nom, sexe);
 
 // construction de la classe : //
   @override 
-  State createState() => new Choix9State(this.nom);
+  State createState() => new Choix1State(this.nom);
 }
 
-class Choix9State extends State<Choix9> {
+class Choix1State extends State<Choix1> {
 
 // variables : //
 
 String nom;// nom du personnage
 
 // Création de la page : //
-Choix9State(this.nom);
+Choix1State(this.nom);
 
 
  // nombre de ligne
@@ -67,8 +67,8 @@ void onPressed2() {
         ligne=ligne+dialoguepage[pressed].ligne;
       };
       dialoguepage.length-1;
-       (pressed>=4){
-    lieu="maison";
+        (pressed>=4){
+    lieu="reve";
   }
   }); 
 }
@@ -121,15 +121,28 @@ void onPressed2() {
                       overflow: TextOverflow.ellipsis,
                       text:new TextSpan(
                       children: <TextSpan>[
-                        dialoguepage[109].texte,
-                        dialoguepage[110].texte,
-                        dialoguepage[111].texte,
-                        dialoguepage[112].texte,
-                        dialoguepage[113].texte,
-                        dialoguepage[114].texte,
-                        dialoguepage[115].texte,
-                        dialoguepage[116].texte,
-                        dialoguepage[117].texte,
+                        dialoguepage[11].texte,
+                        dialoguepage[12].texte,
+                        dialoguepage[13].texte,
+                        dialoguepage[14].texte,
+                        dialoguepage[15].texte,
+                        dialoguepage[16].texte,
+                        dialoguepage[17].texte,
+                        dialoguepage[18].texte,
+                        dialoguepage[19].texte,
+                        dialoguepage[20].texte,
+                        dialoguepage[21].texte,
+                        dialoguepage[22].texte,
+                        dialoguepage[23].texte,
+                        dialoguepage[24].texte,
+                        dialoguepage[25].texte,
+                        dialoguepage[26].texte,
+                        dialoguepage[27].texte,
+                        dialoguepage[28].texte,
+                        dialoguepage[29].texte,
+                        dialoguepage[30].texte,
+                        dialoguepage[31].texte,
+                        dialoguepage[32].texte,
                           ], 
                         )
                         ),

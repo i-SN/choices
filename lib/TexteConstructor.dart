@@ -61,23 +61,9 @@ class TexteConstructor{
           if(chaine.substring(0,1)==sautdeligne){
             lignes=lignes+1;
           }
-          // STYLE constructor --> personne
-          if(rang + 1 ==5 || rang + 1 ==6 || rang + 1 ==11 || rang + 1 ==13 || rang + 1 ==18 || rang + 1 ==34 || rang + 1 ==48 ||rang + 1 ==50 || rang + 1 ==52 || rang + 1 ==56 || rang + 1 ==58) {
-            style=charlotte;
-          }else{
-            if(rang + 1 ==42 || rang + 1 ==94 || rang + 1 ==97 || rang + 1 ==98 || rang + 1 ==101 || rang + 1 ==102 || rang + 1 ==198 ||rang + 1 ==200 ||rang + 1 ==283 ||rang + 1 ==284 ||rang + 1 ==280 || rang + 1 ==287 || rang + 1 ==288 || rang + 1 ==239 || rang + 1 ==242 || rang + 1 ==244 || rang == 246) {
-              style=reve;
-            }else{
-              if(rang + 1 ==12 || rang + 1 ==17 || rang + 1 ==49 || rang + 1 ==51 || rang + 1 ==55 || rang + 1 ==57 || rang + 1 ==60 ||rang + 1 ==96 ||rang + 1 ==100 ||130<=rang && rang<=139 ||142<=rang && rang<=148 || 167<=rang && rang<=176 || 179<=rang && rang<=185 || rang + 1 ==196 || rang + 1 ==201 || rang + 1 ==204 || 214<=rang && rang<=223 || 226<=rang && rang<=232 || 270<=rang && rang<=273 || rang + 1 ==237 || rang + 1 ==281 || rang + 1 ==282 || rang + 1 ==286 || rang + 1 ==238 || rang + 1 ==240 || rang + 1 ==241 || rang + 1 ==243) {
-              style=hero;
-              }else{
-                style=classic;
-              }
-            }
-          }
           // Association
           contenu = new TextSpan(text:chaine, 
-          style:style,);
+          style:classic,);
           paragraphe = new Texte(contenu, lignes); 
           dialogue.add(paragraphe); // ajout liste
         }
@@ -99,23 +85,9 @@ class TexteConstructor{
         lignes=lignes+1;
       }
 
-      // STYLE constructor --> personne
-          if(rang + 1 ==5 || rang + 1 ==6 || rang + 1 ==11 || rang + 1 ==13 || rang + 1 ==18 || rang + 1 ==34 || rang + 1 ==48 ||rang + 1 ==50 || rang + 1 ==52 || rang + 1 ==56 || rang + 1 ==58) {
-            style=charlotte;
-          }else{
-            if(rang + 1 ==42 || rang + 1 ==94 || rang + 1 ==97 || rang + 1 ==98 || rang + 1 ==101 || rang + 1 ==102 || rang + 1 ==198 ||rang + 1 ==200 ||rang + 1 ==283 ||rang + 1 ==284 ||rang + 1 ==280 || rang + 1 ==287 || rang + 1 ==288 || rang + 1 ==239 || rang + 1 ==242 || rang + 1 ==244 || rang == 246) {
-              style=reve;
-            }else{
-              if(rang + 1 ==12 || rang + 1 ==17 || rang + 1 ==49 || rang + 1 ==51 || rang + 1 ==55 || rang + 1 ==57 || rang + 1 ==60 ||rang + 1 ==96 ||rang + 1 ==100 ||130<=rang && rang<=139 ||142<=rang && rang<=148 || 167<=rang && rang<=176 || 179<=rang && rang<=185 || rang + 1 ==196 || rang + 1 ==201 || rang + 1 ==204 || 214<=rang && rang<=223 || 226<=rang && rang<=232 || 270<=rang && rang<=273 || rang + 1 ==237 || rang + 1 ==281 || rang + 1 ==282 || rang + 1 ==286 || rang + 1 ==238 || rang + 1 ==240 || rang + 1 ==241 || rang + 1 ==243) {
-              style=hero;
-              }else{
-                style=classic;
-              }
-            }
-          }
           // Association
           contenu = new TextSpan(text:chaine, 
-          style:style,);
+          style:classic,);
           paragraphe = new Texte(contenu, lignes); 
           dialogue.add(paragraphe); // ajout liste
         }

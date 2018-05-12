@@ -134,7 +134,7 @@ List<String> textefemme =[
 
 
 // Choix 7B : 139/147
-"-  \n ", // + // AMBRE 
+"- ", // + // AMBRE 
 " Réveille toi s'il te plait ! \n ",
 "\n -Non, je ne veux pas. Qui que tu sois, aide moi ! Ma vie n'a plus aucun sens, je passe mes journées à attendre la nuit, j'attends de te retrouver, de succomber sous tes lèvres, je… \n ",
 "\n -mais, ce n'est même pas la réalité, tu penses sentir mes caresses et mes baisers mais ce ne sont que des tours de ton imagination !  \n ",

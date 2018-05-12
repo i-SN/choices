@@ -1,52 +1,47 @@
 List<String> textehomme =[
+
 // INTRO :
 
 "Je sens encore la douceur de ses lèvres. Délicates, rougies par le sang. Elle sourit. Elle me sourit. \n ",
 
 "Son visage harmonieux est encadré par ses petites boucles brunes aux reflets dorés. Ses yeux bleus me transpercent telles deux flèches. Elles vont tout droit se loger dans mon coeur. \n ",
- 
+
 "Ses pommettes rondes et roses me donnent envie de l'embrasser... mes mains caressent son visage, elle me semble si fragile. \n ",
- 
+
 "Je m approche. Je sens son coeur battre, le mien suit. A l’unisson. Comme si nous ne faisions plus qu'un. Ses yeux se ferment doucement. Les miens restent grands ouverts. Je la regarde. Elle est tellement belle… \n ",
 
-" \n «  \n ",
- // VICTOR
+"\n «", // + // VICTOR +
 
 " !  Réveille toi ! C’est le matin »  \n ",
 
-"Changement de décor radical. Ma petite soeur Charlotte est sur mon lit, déjà habillée, ses cheveux tressés et ses yeux brillants. \n ",
- 
+"\n Changement de décor radical. Ma petite soeur Charlotte est sur mon lit, déjà habillée, ses cheveux tressés et ses yeux brillants. \n ",
+
 "Elle attend que je lui réponde quelque chose, que je sorte de mon lit, que je lui ouvre la porte de la maison, la serre dans mes bras. \n ",
 
 "Alors enfin elle partira par le chemin, me fera un salut de la main avant de traverser la route, tournera à droite et marchera droit devant elle jusqu'à tomber sur l'école. \n ",
 
 "Charlotte a 7 ans, mais elle est dans une école spécialisée pour les enfants particuliers : elle est précoce. «Une vraie tête» comme nos parents ont l'habitude de l'appeler quand ils parlent d'elle entre eux. \n ",
 
-"\n «Alors tu te lèves ?» Charlotte me fixe, impatiente. \n ",
+"\n «Alors tu te lèves ?» \n ",
 
-// Choix 1 : Bien sur ma Cha ! 
+// Choix 1 : Bien sur ma Cha !
 // Choix 2 : Désolée Charlotte, une autre fois
 // Choix 3 : Je me retourne, j'ouvre mon unique oeil 
 
 // Choix 1 :
-
 "«-Bien sur ma Cha !   \n ",
-
-"-je vais mettre mes chaussures avec le noeud rouge !»  \n ",
-
-"Ces chaussures avec le noeud rouge, ce sont ses  préférées. Je lui ai offerts à son anniversaire il y a juste trois mois. Chaque fois que je lui offre un cadeau, elle le chérit plus que tout. \n ",
-
+"\n -je vais mettre mes chaussures avec le noeud rouge !»  \n ",
+"\n Ces chaussures avec le noeud rouge, ce sont ses  préférées. Je lui ai offerts à son anniversaire il y a juste trois mois. Chaque fois que je lui offre un cadeau, elle le chérit plus que tout. \n ",
 "Charlotte m'a avoué un jour que c'étaient ses trésors, chacun des présents que je lui faisais. Qu'un jour, elle est sûre que cela lui apportera beaucoup plus que ce que je crois \n ",
-
-"\n  J'avoue n'avoir pas trop compris, mais ça a eu l'air de lui faire plaisir. C'est l'important. \n ",
+"  J'avoue n'avoir pas trop compris, mais ça a eu l'air de lui faire plaisir. C'est l'important. \n ",
 
 "Je la regarde accroupis, concentrée sur la boucle dorée. Avec ses petites mains potelées elle peine à faire passer la lanière dedans. \n ",
 
-"\n -Tu veux de l'aide? \n  \n ",
+"\n -Tu veux de l'aide?  \n ",
 
-"-Non ! Hier j'y suis arrivée ! Tu vas voir !   \n ",
+"\n-Non ! Hier j'y suis arrivée ! Tu vas voir !  \n ",
 
-"Je souris doucement, elle m'a dit tout cela le visage crispé et la langue tirée. Malgré son refus, je me baisse et elle me cède son pied comme capitulant face à l'ennemi. \n ",
+"\n Je souris doucement, elle m'a dit tout cela le visage crispé et la langue tirée. Malgré son refus, je me baisse et elle me cède son pied comme capitulant face à l'ennemi. \n ",
 
 "Une fois prête, elle passe la porte et s'éloigne, son sac sur ses petites épaules ballottés par l'irrégularité de ses pas. \n ",
 

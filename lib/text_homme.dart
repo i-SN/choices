@@ -1,28 +1,28 @@
 List<String> textehomme =[
 // INTRO :
 
-"Je sens encore la douceur de ses lèvres. Délicates, rougies par le sang. Elle sourit. Elle me sourit.",
+"Je sens encore la douceur de ses lèvres. Délicates, rougies par le sang. Elle sourit. Elle me sourit. \n ",
 
-"Son visage harmonieux est encadré par ses petites boucles brunes aux reflets dorés. Ses yeux bleus me transpercent telles deux flèches. Elles vont tout droit se loger dans mon coeur.",
+"Son visage harmonieux est encadré par ses petites boucles brunes aux reflets dorés. Ses yeux bleus me transpercent telles deux flèches. Elles vont tout droit se loger dans mon coeur. \n ",
  
-"Ses pommettes rondes et roses me donnent envie de l'embrasser... mes mains caressent son visage, elle me semble si fragile.",
+"Ses pommettes rondes et roses me donnent envie de l'embrasser... mes mains caressent son visage, elle me semble si fragile. \n ",
  
-"Je m approche. Je sens son coeur battre, le mien suit. A l’unisson. Comme si nous ne faisions plus qu'un. Ses yeux se ferment doucement. Les miens restent grands ouverts. Je la regarde. Elle est tellement belle…",
+"Je m approche. Je sens son coeur battre, le mien suit. A l’unisson. Comme si nous ne faisions plus qu'un. Ses yeux se ferment doucement. Les miens restent grands ouverts. Je la regarde. Elle est tellement belle… \n ",
 
-" \n « ",
- + Victor + 
+" \n «  \n ",
+ // VICTOR
 
-" !  Réveille toi ! C’est le matin » \n",
+" !  Réveille toi ! C’est le matin »  \n ",
 
-"Changement de décor radical. Ma petite soeur Charlotte est sur mon lit, déjà habillée, ses cheveux tressés et ses yeux brillants.",
+"Changement de décor radical. Ma petite soeur Charlotte est sur mon lit, déjà habillée, ses cheveux tressés et ses yeux brillants. \n ",
  
-"Elle attend que je lui réponde quelque chose, que je sorte de mon lit, que je lui ouvre la porte de la maison, la serre dans mes bras.",
+"Elle attend que je lui réponde quelque chose, que je sorte de mon lit, que je lui ouvre la porte de la maison, la serre dans mes bras. \n ",
 
-"Alors enfin elle partira par le chemin, me fera un salut de la main avant de traverser la route, tournera à droite et marchera droit devant elle jusqu'à tomber sur l'école.",
+"Alors enfin elle partira par le chemin, me fera un salut de la main avant de traverser la route, tournera à droite et marchera droit devant elle jusqu'à tomber sur l'école. \n ",
 
-"Charlotte a 7 ans, mais elle est dans une école spécialisée pour les enfants particuliers : elle est précoce. «Une vraie tête» comme nos parents ont l'habitude de l'appeler quand ils parlent d'elle entre eux.",
+"Charlotte a 7 ans, mais elle est dans une école spécialisée pour les enfants particuliers : elle est précoce. «Une vraie tête» comme nos parents ont l'habitude de l'appeler quand ils parlent d'elle entre eux. \n ",
 
-"\n «Alors tu te lèves ?» Charlotte me fixe, impatiente.",
+"\n «Alors tu te lèves ?» Charlotte me fixe, impatiente. \n ",
 
 // Choix 1 : Bien sur ma Cha ! 
 // Choix 2 : Désolée Charlotte, une autre fois
@@ -30,48 +30,49 @@ List<String> textehomme =[
 
 // Choix 1 :
 
-"«-Bien sur ma Cha ! \n ",
+"«-Bien sur ma Cha !   \n ",
 
-"-je vais mettre mes chaussures avec le noeud rouge !»\n ",
+"-je vais mettre mes chaussures avec le noeud rouge !»  \n ",
 
-"Ces chaussures avec le noeud rouge, ce sont ses  préférées. Je lui ai offerts à son anniversaire il y a juste trois mois. Chaque fois que je lui offre un cadeau, elle le chérit plus que tout.",
+"Ces chaussures avec le noeud rouge, ce sont ses  préférées. Je lui ai offerts à son anniversaire il y a juste trois mois. Chaque fois que je lui offre un cadeau, elle le chérit plus que tout. \n ",
 
-"Charlotte m'a avoué un jour que c'étaient ses trésors, chacun des présents que je lui faisais. Qu'un jour, elle est sûre que cela lui apportera beaucoup plus que ce que je crois", 
+"Charlotte m'a avoué un jour que c'étaient ses trésors, chacun des présents que je lui faisais. Qu'un jour, elle est sûre que cela lui apportera beaucoup plus que ce que je crois \n ",
 
-"\n  J'avoue n'avoir pas trop compris, mais ça a eu l'air de lui faire plaisir. C'est l'important.\n",
+"\n  J'avoue n'avoir pas trop compris, mais ça a eu l'air de lui faire plaisir. C'est l'important. \n ",
 
-"Je la regarde accroupis, concentrée sur la boucle dorée. Avec ses petites mains potelées elle peine à faire passer la lanière dedans.",
+"Je la regarde accroupis, concentrée sur la boucle dorée. Avec ses petites mains potelées elle peine à faire passer la lanière dedans. \n ",
 
-"\n -Tu veux de l'aide? \n ",
+"\n -Tu veux de l'aide? \n  \n ",
 
-"-Non ! Hier j'y suis arrivée ! Tu vas voir ! \n ",
+"-Non ! Hier j'y suis arrivée ! Tu vas voir !   \n ",
 
-"Je souris doucement, elle m'a dit tout cela le visage crispé et la langue tirée. Malgré son refus, je me baisse et elle me cède son pied comme capitulant face à l'ennemi.",
+"Je souris doucement, elle m'a dit tout cela le visage crispé et la langue tirée. Malgré son refus, je me baisse et elle me cède son pied comme capitulant face à l'ennemi. \n ",
 
-"Une fois prête, elle passe la porte et s'éloigne, son sac sur ses petites épaules ballottés par l'irrégularité de ses pas.",
+"Une fois prête, elle passe la porte et s'éloigne, son sac sur ses petites épaules ballottés par l'irrégularité de ses pas. \n ",
 
-"Après son salut j'attends toujours de la voir disparaître complètement et je retourne dans la maison, maintenant complètement vide.",
+"Après son salut j'attends toujours de la voir disparaître complètement et je retourne dans la maison, maintenant complètement vide. \n ",
 
-"Il y a un mot sur la table de la cuisine : «nos voyages respectifs durent un peu plus longtemps que prévu, tu resteras encore une semaine seul avec Charlotte.» ",
+"Il y a un mot sur la table de la cuisine : «nos voyages respectifs durent un peu plus longtemps que prévu, tu resteras encore une semaine seul avec Charlotte.»  \n ",
 
-"Ce n'est pas l'écriture de l'un de mes parents. Ils ont dû écrire un mail à notre femme de ménage qui c'est empressé de venir ce matin tôt sachant que seule Charlotte serait déjà réveillée. Elle ne m'a rien dit. ",
+"Ce n'est pas l'écriture de l'un de mes parents. Ils ont dû écrire un mail à notre femme de ménage qui c'est empressé de venir ce matin tôt sachant que seule Charlotte serait déjà réveillée. Elle ne m'a rien dit.  \n ",
 
-"Pauvre Charlotte... à 7 ans devoir se contenter, la plupart du temps de son frère comme unique présence qui de plus est, reste à la maison, jugé depuis peu incapable de reprendre son métier. ",
+"Pauvre Charlotte... à 7 ans devoir se contenter, la plupart du temps de son frère comme unique présence qui de plus est, reste à la maison, jugé depuis peu incapable de reprendre son métier.  \n ",
 
-"Militaire. J'étais militaire. Commando précisément. Et puis je suis tombée malade. Au début rien de grave, simple conjonctivite, mon oeil gauche était gonflé et rouge. C'était pendant une mission. J'ai attrapé une maladie. 
-«La cochonnerie» comme dit Charlotte, se cachant ensuite la bouche comme si elle avait dit quelque chose de très grave. ",
+"Militaire. J'étais militaire. Commando précisément. Et puis je suis tombée malade. Au début rien de grave, simple conjonctivite, mon oeil gauche était gonflé et rouge. C'était pendant une mission. J'ai attrapé une maladie. \n ",
 
-"Cette cochonnerie a détruit mon oeil gauche. En 2 mois, j’ai perdu la moitié de ma vue. Ma vie. Ma raison d'être.", 
+"«La cochonnerie» comme dit Charlotte, se cachant ensuite la bouche comme si elle avait dit quelque chose de très grave.  \n ",
 
-"Je suis rentrée en France terrassée et lorsque l'on m’a proposé de prendre un poste de secrétaire, j'ai refusé d'un non catégorique. Et je n'y suis plus jamais retournée.", 
+"Cette cochonnerie a détruit mon oeil gauche. En 2 mois, j’ai perdu la moitié de ma vue. Ma vie. Ma raison d'être. \n ",
 
-"C'était il y a trois ans. Charlotte avait trois ans. ",
+"Je suis rentrée en France terrassée et lorsque l'on m’a proposé de prendre un poste de secrétaire, j'ai refusé d'un non catégorique. Et je n'y suis plus jamais retournée. \n ",
 
-"J'ai demandé à mes parents de revenir à la maison. Ils ont vu là la possibilité de s'échapper. De quitter Charlotte et cette ville dans laquelle ils sont tous les deux nés et de découvrir le monde.",
+"C'était il y a trois ans. Charlotte avait trois ans.  \n ",
 
-"Alors je suis restée. J'ai choisi de donner du temps à ma soeur. De lui permettre de grandir, le mieux possible. Le plus normalement possible.",
+"J'ai demandé à mes parents de revenir à la maison. Ils ont vu là la possibilité de s'échapper. De quitter Charlotte et cette ville dans laquelle ils sont tous les deux nés et de découvrir le monde. \n ",
 
-"Je tourne déjà depuis vingt minutes dans le salon. A 10h j'ai un éventuel entretien professionnel. À 11h un bilan de vision. Il est 8h30, je suis toujours en jogging.",
+"Alors je suis restée. J'ai choisi de donner du temps à ma soeur. De lui permettre de grandir, le mieux possible. Le plus normalement possible. \n ",
+
+"Je tourne déjà depuis vingt minutes dans le salon. A 10h j'ai un éventuel entretien professionnel. À 11h un bilan de vision. Il est 8h30, je suis toujours en jogging. \n ",
 
 // Choix 4 : L'eau coule. Mes yeux sont fermés
 // Choix 5 : Mes yeux, l'immobilité du gauche
@@ -81,548 +82,575 @@ List<String> textehomme =[
 
 "Désolée Charlotte, un autre monde m'appelle. \n ",
 
-"Je garde les yeux fermés. Je sens ses yeux insistés encore quelques dizaines de secondes puis s'en va en traînant ses pieds. Son souffle s'efface jusqu'à ne laisser que le silence de ma chambre.",
+"Je garde les yeux fermés. Je sens ses yeux insistés encore quelques dizaines de secondes puis s'en va en traînant ses pieds. Son souffle s'efface jusqu'à ne laisser que le silence de ma chambre. \n ",
 
-"Où en étais-je ?",
+"Où en étais-je ? \n ",
 
-"J'allais l'embrasser.",
+"J'allais l'embrasser. \n ",
 
-"Son visage réapparaît.",
+"Son visage réapparaît. \n ",
 
-"Toujours aussi belle.",
+"Toujours aussi belle. \n ",
 
-"Un doux baiser.",
+"Un doux baiser. \n ",
 
-"Mon corps s'embrase, mes poils se dressent sous ses lèvres. Elle me sourit en s'écartant.",
+"Mon corps s'embrase, mes poils se dressent sous ses lèvres. Elle me sourit en s'écartant. \n ",
  
 "\n «Viens» \n ",
 
-"Sa main est tendue devant moi comme si elle attendait que je la suive. Inconscient je me remets à elle. Nous traversons des mondes, inconnus, merveilleux, colorés.",
+"Sa main est tendue devant moi comme si elle attendait que je la suive. Inconscient je me remets à elle. Nous traversons des mondes, inconnus, merveilleux, colorés. \n ",
 
-"Mais mes yeux n'ont pas le temps de saisir les détails tous défilent trop vite. Qu'importe. Elle est près de moi.",
+"Mais mes yeux n'ont pas le temps de saisir les détails tous défilent trop vite. Qu'importe. Elle est près de moi. \n ",
 
-"Je ne la vois que de dos, sa nuque est dégagée et je peux voir le début de son tatouage dans le dos, des immenses ailes. Je ne sais même pas comment elle est habillée, tout semble flou.",
+"Je ne la vois que de dos, sa nuque est dégagée et je peux voir le début de son tatouage dans le dos, des immenses ailes. Je ne sais même pas comment elle est habillée, tout semble flou. \n ",
 
-"Tout d'un coup, une question s'impose à moi, qui est cette femme? «qui es tu ?». Elle ne répond pas. Peut être qu'elle ne m a pas entendu. «Qui es tu ? Dis le moi ! Je t'en pris !» ma voix est teintée de prière. J'ai besoin de savoir..",
+"Tout d'un coup, une question s'impose à moi, qui est cette femme? «qui es tu ?». Elle ne répond pas. Peut être qu'elle ne m a pas entendu. «Qui es tu ? Dis le moi ! Je t'en pris !» ma voix est teintée de prière. J'ai besoin de savoir.. \n ",
 
-"Je sais qu'elle sourit. Elle se retourne, s'arrête et pendant un moment ne dit rien. Elle se rapproche de moi et me chuchote à l'oreille :",
+"Je sais qu'elle sourit. Elle se retourne, s'arrête et pendant un moment ne dit rien. Elle se rapproche de moi et me chuchote à l'oreille : \n ",
 
-"\n «-ouvre les yeux..\n ",
+"\n «-ouvre les yeux.. \n ",
 
-"\n -quoi ?",\n ",
+"\n -quoi ? \n ",
 
-"\n -ouvre les yeux !\n ",
+"\n -ouvre les yeux ! \n ",
 
-"\n -comment t'appelles-tu ?\n ",
+"\n -comment t'appelles-tu ? \n ",
 
-"\n -OUVRE LES YEUX ",
- VICTOR
+"\n -OUVRE LES YEUX  \n ",
+// VICTOR
 
-" !\n»\n ",
+" !\n»\n  \n ",
 
 // Choix 7 : Victor réveille toi s'il te plait !
 // Choix 8 : Le plafond, encore et encore le plafond
 
 // Choix 3 :
 
-"Je me retourne, j'ouvre les yeux et regarde de mon seul œil valide ma chère petite Cha.",
+"Je me retourne, j'ouvre les yeux et regarde de mon seul œil valide ma chère petite Cha. \n ",
 
-"\n  «-écoute Cha, je suis fatigué, j'ai pas trop bien dormi...» Je lui montre mon œil pour témoin.",
-"\n «la cochonnerie ?» Charlotte met ses deux mains sur sa bouche comme si elle venait de dire la pire bêtise.",
+"\n  «-écoute Cha, je suis fatigué, j'ai pas trop bien dormi...» Je lui montre mon œil pour témoin. \n ",
+"\n «la cochonnerie ?» Charlotte met ses deux mains sur sa bouche comme si elle venait de dire la pire bêtise. \n ",
 
-"\n «-la cochonnerie Cha…",
+"\n «-la cochonnerie Cha… \n ",
 
-"\n -Dors bien alors ",
- Victor
+"\n -Dors bien alors  \n ",
+// VICTOR
 
-" , je vais me débrouiller toute seule ce matin, je suis grande !",
+" , je vais me débrouiller toute seule ce matin, je suis grande ! \n ",
 
-"\n -ok Cha !» je la regarde partir en souriant.\n ",
+"\n -ok Cha !» je la regarde partir en souriant. \n ",
 
-"Mais dès qu'elle disparaît derrière la porte, mon visage change, mon oeil me fait vraiment mal ; triste souvenir d'un triste moment de mon ancienne vie…",
+"Mais dès qu'elle disparaît derrière la porte, mon visage change, mon oeil me fait vraiment mal ; triste souvenir d'un triste moment de mon ancienne vie… \n ",
 
-"Militaire. J'étais militaire. Commando précisément. Et puis je suis tombé malade. Au début rien de grave, simple conjonctivite, mon oeil gauche était gonflé et rouge. C'était pendant une mission. J'ai attrapé une maladie.",
+"Militaire. J'étais militaire. Commando précisément. Et puis je suis tombé malade. Au début rien de grave, simple conjonctivite, mon oeil gauche était gonflé et rouge. C'était pendant une mission. J'ai attrapé une maladie. \n ",
 
-"«La cochonnerie» comme dit Charlotte, se cachant ensuite la bouche comme si elle avait dit quelque chose de très grave.",
+"«La cochonnerie» comme dit Charlotte, se cachant ensuite la bouche comme si elle avait dit quelque chose de très grave. \n ",
 
-"Cette cochonnerie a détruit mon oeil gauche. En 2 mois, j ai perdu la moitié de ma vue. Ma vie. Ma raison d'être.",
+"Cette cochonnerie a détruit mon oeil gauche. En 2 mois, j ai perdu la moitié de ma vue. Ma vie. Ma raison d'être. \n ",
 
-"Je suis rentré en France terrassé et lorsque l'on m’a proposé de prendre un poste de secrétaire, j'ai refusé d'un non catégorique. Et je n'y suis plus jamais retourné.",
+"Je suis rentré en France terrassé et lorsque l'on m’a proposé de prendre un poste de secrétaire, j'ai refusé d'un non catégorique. Et je n'y suis plus jamais retourné. \n ",
 
-"C'était il y a trois ans. Et depuis, je fais toujours ce même rêve. Cette femme m'obsède. Son visage m'est inconnu. Pourtant elle me semble étrangement familière.",
+"C'était il y a trois ans. Et depuis, je fais toujours ce même rêve. Cette femme m'obsède. Son visage m'est inconnu. Pourtant elle me semble étrangement familière. \n ",
 
-"Ses cheveux courts et frisés, ses yeux bleus, ses pommettes rondes et roses, son grand tatouage d'ailes dans son dos, sa petite taille, ses lèvres rouges et pulpeuses..",
+"Ses cheveux courts et frisés, ses yeux bleus, ses pommettes rondes et roses, son grand tatouage d'ailes dans son dos, sa petite taille, ses lèvres rouges et pulpeuses.. \n ",
 
-"Elle est toujours dans ma tête. Peut être que si je sortais j'aurais des chances de la rencontrer. J'espère qu'elle existe. Je l'espère de tout coeur.",
+"Elle est toujours dans ma tête. Peut être que si je sortais j'aurais des chances de la rencontrer. J'espère qu'elle existe. Je l'espère de tout coeur. \n ",
 
-"Peut être que le meilleur moyen de le savoir serait se sortir. Aller me promener. Aller à mes deux rendez-vous au lieu de rester encore et toujours entre les quatres murs de cette maison vide...",
+"Peut être que le meilleur moyen de le savoir serait se sortir. Aller me promener. Aller à mes deux rendez-vous au lieu de rester encore et toujours entre les quatres murs de cette maison vide... \n ",
 
 // Choix 4 : L'eau coule. Mes yeux sont fermés
 // Choix 9 : ...avant pleine de vie ...
 
 // Choix 4 :
 
-"L'eau coule dans mon dos et sur mon visage. Mes yeux sont fermés. Je ne pense à rien.",
+"L'eau coule dans mon dos et sur mon visage. Mes yeux sont fermés. Je ne pense à rien. \n ",
 
-"Si je pense trop, je ne sortirais encore pas aujourd'hui. Je devrais trouver une excuse à mon énième refus de rendez vous de visite oculaire et un simple texto à gars de l'entretien. C'est si simple.",
+"Si je pense trop, je ne sortirais encore pas aujourd'hui. Je devrais trouver une excuse à mon énième refus de rendez vous de visite oculaire et un simple texto à gars de l'entretien. C'est si simple. \n ",
 
-"Pourtant, si elle existe, si elle est là dehors... je ne peux pas m'empêcher de me projeter.. et si... et si...",
+"Pourtant, si elle existe, si elle est là dehors... je ne peux pas m'empêcher de me projeter.. et si... et si... \n ",
 
-"J'arrête l'eau. On dirait qu'elle active ma conscience, me sort de ma routine journalière. Ce n est pas un jet d'eau mais un jet de pensée et de tourments.",
+"J'arrête l'eau. On dirait qu'elle active ma conscience, me sort de ma routine journalière. Ce n est pas un jet d'eau mais un jet de pensée et de tourments. \n ",
 
-"La salle de bain est pleine de vapeur, le miroir embué. J'aime ce temps de latence qui laisse apparaître petit à petit le reflet de mon visage.",
+"La salle de bain est pleine de vapeur, le miroir embué. J'aime ce temps de latence qui laisse apparaître petit à petit le reflet de mon visage. \n ",
 
-"Mes cheveux bruns sont encore mouillés. J'en profite pour les coiffer en arrière, mon visage dégagé, on ne voit plus que mes yeux verts.",
+"Mes cheveux bruns sont encore mouillés. J'en profite pour les coiffer en arrière, mon visage dégagé, on ne voit plus que mes yeux verts. \n ",
 
-"Mes yeux. Quiconque me regarde réellement se rend compte de l'immobilité du gauche.",
+"Mes yeux. Quiconque me regarde réellement se rend compte de l'immobilité du gauche. \n ",
 
-"Lors de ma première visite après la perte de mon œil, mon opticien m'a parlé pendant 30 minutes de tous les risques qui découlent de ma maladie : ",
+"Lors de ma première visite après la perte de mon œil, mon opticien m'a parlé pendant 30 minutes de tous les risques qui découlent de ma maladie :  \n ",
 
-"tumeur au cerveau, perte du deuxième œil, paralysie de la moitié gauche de mon visage sont les trois qui m'ont marqué.",
+"tumeur au cerveau, perte du deuxième œil, paralysie de la moitié gauche de mon visage sont les trois qui m'ont marqué. \n ",
 
-"J'aurai aimé pleurer mais je n'ai pas réussi, j'aurai aimé le frapper mais je me suis retenu, j'aurai aimé remonter le temps mais je n'ai trouvé aucun moyen...",
+"J'aurai aimé pleurer mais je n'ai pas réussi, j'aurai aimé le frapper mais je me suis retenu, j'aurai aimé remonter le temps mais je n'ai trouvé aucun moyen... \n ",
 
-"Alors je me suis contenté d'entendre et d'appréhender au jour le jour la vie qui allait m'arriver.",
+"Alors je me suis contenté d'entendre et d'appréhender au jour le jour la vie qui allait m'arriver. \n ",
 
 // Choix 11 : Quelle idée de repenser à cela..
 // Choix 10 : Mais je vois encore. Mon œil droit va bien
 
 // Choix 5 :
 
-"Mes yeux. Quiconque me regarde réellement se rend compte de l'immobilité du gauche.",
+"Mes yeux. Quiconque me regarde réellement se rend compte de l'immobilité du gauche. \n ",
 
-"Lors de ma première visite après la perte de mon œil, mon opticien m'a parlé pendant 30 minutes de tous les risques qui découlent de ma maladie : ",
+"Lors de ma première visite après la perte de mon œil, mon opticien m'a parlé pendant 30 minutes de tous les risques qui découlent de ma maladie :  \n ",
 
-"tumeur au cerveau, perte du deuxième œil, paralysie de la moitié gauche de mon visage sont les trois qui m'ont marqué.",
+"tumeur au cerveau, perte du deuxième œil, paralysie de la moitié gauche de mon visage sont les trois qui m'ont marqué. \n ",
 
-"J'aurai aimé pleurer mais je n'ai pas réussi, j'aurai aimé le frapper mais je me suis retenu, j'aurai aimé remonter le temps mais je n'ai trouvé aucun moyen...",
+"J'aurai aimé pleurer mais je n'ai pas réussi, j'aurai aimé le frapper mais je me suis retenu, j'aurai aimé remonter le temps mais je n'ai trouvé aucun moyen... \n ",
 
-"Alors je me suis contenté d'entendre et d'appréhender aux jours le jours la vie qui allait m'arriver.",
+"Alors je me suis contenté d'entendre et d'appréhender aux jours le jours la vie qui allait m'arriver. \n ",
 
-"Pourtant son visage me revient souvent en mémoire : les cheveux noirs, surement tein vu son âge, ses yeux bleus qui allaient très vite de son écran à moi, de moi à son écran, ses lèvres presque inexistantes mais pincées, ses joues flattes légèrement pendantes.",
+"Pourtant son visage me revient souvent en mémoire : les cheveux noirs, surement tein vu son âge, ses yeux bleus qui allaient très vite de son écran à moi, de moi à son écran, ses lèvres presque inexistantes mais pincées, ses joues flattes légèrement pendantes. \n ",
 
-"Puis ce grand moment de silence. Ce silence qui ne faisait que retarder l'annonce. Alors je lui ai lancé «Parlez, dites tout ce que vous avez à dire, je ne suis pas dupe et ce silence ne fait que renforcer mes pires craintes.».",
+"Puis ce grand moment de silence. Ce silence qui ne faisait que retarder l'annonce. Alors je lui ai lancé «Parlez, dites tout ce que vous avez à dire, je ne suis pas dupe et ce silence ne fait que renforcer mes pires craintes.». \n ",
 
-"Et voilà comment en 10 secondes je suis passé de l'espoir à l'abandon.",
+"Et voilà comment en 10 secondes je suis passé de l'espoir à l'abandon. \n ",
 
 // Choix 11 : Quelle idée de repenser à cela..
 // Choix 10 : Mais je vois encore. Mon œil droit va bien
 
 // Choix 6 :
 
-"Première étape, déjeuner. Souvent le matin, Cha laisse quelque chose sur le plan de travail au cas où je daigne me lever.",
+"Première étape, déjeuner. Souvent le matin, Cha laisse quelque chose sur le plan de travail au cas où je daigne me lever. \n ",
 
-"Aujourd'hui il y a un cookie et un verre de jus d'orange. J'avale tout cela en vitesse. Le jus d'orange ne vient pas d'une bouteille, elle a dû le presser elle-même avec ses petites mains.",
+"Aujourd'hui il y a un cookie et un verre de jus d'orange. J'avale tout cela en vitesse. Le jus d'orange ne vient pas d'une bouteille, elle a dû le presser elle-même avec ses petites mains. \n ",
 
-"Elle fait tant d'efforts pour moi. Du haut de ses 7 ans, elle pourrait être ma grande soeur, responsable et autonome... et moi je profite de cela. Je ne fais aucun effort. J'ai parfois envie de reporter toute ma colère sur elle.",
+"Elle fait tant d'efforts pour moi. Du haut de ses 7 ans, elle pourrait être ma grande soeur, responsable et autonome... et moi je profite de cela. Je ne fais aucun effort. J'ai parfois envie de reporter toute ma colère sur elle. \n ",
 
-"Mais chaque fois qu'elle me regarde, avec ses yeux de petite fille, ses yeux remplis d'étoiles, ses yeux qui me disent à quel point elle m'aime et qu'elle ne voudrait pas avoir un grand frère différent, à chaque fois, ma colère se dissipe.",
+"Mais chaque fois qu'elle me regarde, avec ses yeux de petite fille, ses yeux remplis d'étoiles, ses yeux qui me disent à quel point elle m'aime et qu'elle ne voudrait pas avoir un grand frère différent, à chaque fois, ma colère se dissipe. \n ",
 
-"Je dois continuer ma vie pour elle. Pour être un exemple, pour ne jamais voir sur son visage de la déception ou de la tristesse.",
+"Je dois continuer ma vie pour elle. Pour être un exemple, pour ne jamais voir sur son visage de la déception ou de la tristesse. \n ",
 
 // Choix 12 : Je ferme la porte de la maison
 // Choix 13 : Peut être suis-je aussi enfin prêt
 
 // Choix 7 :
 
-"- ", 
-Victor
-" réveille toi s'il te plait !",
+"-  \n ",
+// VICTOR
+" réveille toi s'il te plait ! \n ",
 
-"\n -Non, je ne veux pas. Qui que tu sois, aide moi ! Ma vie n'a plus aucun sens, je passe mes journées à attendre la nuit, j'attends de te retrouver, de succomber sous tes lèvres, je...",
+"\n -Non, je ne veux pas. Qui que tu sois, aide moi ! Ma vie n'a plus aucun sens, je passe mes journées à attendre la nuit, j'attends de te retrouver, de succomber sous tes lèvres, je... \n ",
 
-"\n -mais, ce n'est même pas la réalité, tu penses sentir mes caresses et mes baisers mais ce ne sont que des tours de ton imagination !",
+"\n -mais, ce n'est même pas la réalité, tu penses sentir mes caresses et mes baisers mais ce ne sont que des tours de ton imagination ! \n ",
 
-"\n Écoute",
+"\n Écoute,  \n ",
 
-Victor,
+// VICTOR
 
-" , tu connais la règle des rêves, si tu brusques la porte trop souvent, ton âme se transformera progressivement en revilames et tu ne pourras plus faire marche arrière !",
+"tu connais la règle des rêves, si tu brusques la porte trop souvent, ton âme se transformera progressivement en revilames et tu ne pourras plus faire marche arrière ! \n ",
 
-"\n -Tu es toi même une revillame et tu me dissuades de chercher à en devenir une ? Gardes tu jalousement l'entrée de ton monde ?",
+"\n -Tu es toi même une revillame et tu me dissuades de chercher à en devenir une ? Gardes tu jalousement l'entrée de ton monde ? \n ",
 
-"\n -Tu n'as pas la même vie que j'avais, personne n'allait me pleurer, personne n'allait remarquer que je ne serais plus ! Mais toi, toi tu as une famille !",
+"\n -Tu n'as pas la même vie que j'avais, personne n'allait me pleurer, personne n'allait remarquer que je ne serais plus ! Mais toi, toi tu as une famille ! \n ",
 
-"\n Tu as ta petite soeur qui t'aime plus que tout. Et qui est aujourd'hui, ton plus beau trésor de ta vie... n'ai je pas raison ?",
+"\n Tu as ta petite soeur qui t'aime plus que tout. Et qui est aujourd'hui, ton plus beau trésor de ta vie... n'ai je pas raison ? \n ",
 
 // Choix 14 : Charlotte... Charlotte... CHARLOTTE !!!
 // Choix 15 : Charlotte sera obligé d'ouvrir les yeux…
 
 // Choix 8 :
 
-"Le plafond, encore et encore le plafond. Ses petites fissures dessinent un magnifique tableau graphique abstrait.",
+"Le plafond, encore et encore le plafond. Ses petites fissures dessinent un magnifique tableau graphique abstrait. \n ",
 
-"Des fois avec Charlotte, nous essayons d'y voir des animaux, des feuilles, des visages, des lettres, des chiffres... Charlotte, ma petite charlotte... Elle fait tant d'efforts pour moi.",
+"Des fois avec Charlotte, nous essayons d'y voir des animaux, des feuilles, des visages, des lettres, des chiffres... Charlotte, ma petite charlotte... Elle fait tant d'efforts pour moi. \n ",
 
-"Du haut de ses 7 ans, elle pourrait être ma grande soeur, responsable et autonome... et moi je profite de cela. Je ne fais aucun effort.",
+"Du haut de ses 7 ans, elle pourrait être ma grande soeur, responsable et autonome... et moi je profite de cela. Je ne fais aucun effort. \n ",
 
-"J'ai parfois envie de reporter toute ma colère sur elle.",
+"J'ai parfois envie de reporter toute ma colère sur elle. \n ",
 
-"Mais chaque fois qu'elle me regarde, avec ses yeux de petite fille, ses yeux remplis d'étoiles.",
+"Mais chaque fois qu'elle me regarde, avec ses yeux de petite fille, ses yeux remplis d'étoiles. \n ",
 
-"Ses yeux qui me disent à quel point elle m'aime et qu'elle ne voudrait pas avoir un grand frère différent, à chaque fois, ma colère se dissipe.",
+"Ses yeux qui me disent à quel point elle m'aime et qu'elle ne voudrait pas avoir un grand frère différent, à chaque fois, ma colère se dissipe. \n ",
 
-"Je dois continuer ma vie pour elle. Pour être un exemple, pour ne jamais voir sur son visage de la déception ou de la tristesse.",
+"Je dois continuer ma vie pour elle. Pour être un exemple, pour ne jamais voir sur son visage de la déception ou de la tristesse. \n ",
 
 // Choix 16 : L'eau coule. Mes yeux sont fermés
 // Choix 13 : peut être suis-je aussi enfin prêt
 
 // Choix 9 :
 
-"Quand j'étais petit, mes parents étaient toujours là. Ils travaillaient ensemble. Ils venaient me chercher à l'école. Ils m'emmenaient goûter chez «le pain chaud» la pâtisserie à l'angle de notre rue.",
+"Quand j'étais petit, mes parents étaient toujours là. Ils travaillaient ensemble. Ils venaient me chercher à l'école. Ils m'emmenaient goûter chez «le pain chaud» la pâtisserie à l'angle de notre rue. \n ",
 
-"Je me demande ce qui a changé. Peut être le fait qu'ils ne supportaient plus de travailler ensemble, de toujours être ensemble dans le cadre privé et public.",
+"Je me demande ce qui a changé. Peut être le fait qu'ils ne supportaient plus de travailler ensemble, de toujours être ensemble dans le cadre privé et public. \n ",
 
-"Et puis, alors que notre foyer était à deux doigts de s'effondrer complètement, que du haut de mes 19 ans, j'avais déjà fait le tour du monde avec mon commando, que je ne passais que une fois tous les huit mois en coup de vent à la maison, ma mère est tombée enceinte.",
+"Et puis, alors que notre foyer était à deux doigts de s'effondrer complètement, que du haut de mes 19 ans, j'avais déjà fait le tour du monde avec mon commando, que je ne passais que une fois tous les huit mois en coup de vent à la maison, ma mère est tombée enceinte. \n ",
 
-"Mon père a d'abord cru qu'elle l'avait trompé. Mais non, après des tests ADN, mon père a dû se rendre à l'évidence, c'était bien sa fille.",
+"Mon père a d'abord cru qu'elle l'avait trompé. Mais non, après des tests ADN, mon père a dû se rendre à l'évidence, c'était bien sa fille. \n ",
 
-"J'ai appris son existence quand elle a eu 3 mois, je revenais d'une mission au Mali très dure, et ce bout de vie, aux immenses yeux verts fut mon soleil à travers cette remontée des enfers..",
+"J'ai appris son existence quand elle a eu 3 mois, je revenais d'une mission au Mali très dure, et ce bout de vie, aux immenses yeux verts fut mon soleil à travers cette remontée des enfers.. \n ",
 
-"Mes parents s'en sont obligatoirement rendu compte : je revenais une fois tous les mois, toujours les bras pleins de cadeaux, j'étais le grand frère gâteau par excellence.",
+"Mes parents s'en sont obligatoirement rendu compte : je revenais une fois tous les mois, toujours les bras pleins de cadeaux, j'étais le grand frère gâteau par excellence. \n ",
 
-"Et puis ma cochonnerie est arrivée.",
+"Et puis ma cochonnerie est arrivée. \n ",
 
-"Et tout a changé...",
+"Et tout a changé... \n ",
 
-"J'ai l'impression de tourner en rond. De ressasser chaque jour ce tournant de ma vie. D'être bloqué il y a trois ans.",
+"J'ai l'impression de tourner en rond. De ressasser chaque jour ce tournant de ma vie. D'être bloqué il y a trois ans. \n ",
 
 // Choix 11 : Quelle idée de repenser à cela..
 // Choix 12 : Je ferme la porte de la maison
 
 // Choix 10 : + FIN 2
 
-"Mais je vois encore. Mon œil droit va bien.",
+"Mais je vois encore. Mon œil droit va bien. \n ",
 
-"Mon œil droit n'a pas été touché alors que le médecin m'avait prévenu du pourcentage élevé de cas où les deux yeux finissaient pas être touché : 65,3%.",
+"Mon œil droit n'a pas été touché alors que le médecin m'avait prévenu du pourcentage élevé de cas où les deux yeux finissaient pas être touché : 65,3%. \n ",
 
-"Peut être que je devrais voir les choses comme ca. Me dire que malgré tout je vois encore le monde.",
+"Peut être que je devrais voir les choses comme ca. Me dire que malgré tout je vois encore le monde. \n ",
 
-"Je peux profiter du coucher de soleil, des paysages immaculé de l'hiver, de la nature qui se réveille au printemps, de Charlotte qui grandit... Peut être que voir le monde en noir pendant tout ce temps me donne envie de changer...",
+"Je peux profiter du coucher de soleil, des paysages immaculé de l'hiver, de la nature qui se réveille au printemps, de Charlotte qui grandit... Peut être que voir le monde en noir pendant tout ce temps me donne envie de changer... \n ",
 
-"~",
+"\n ~  \n ",
 
-"Je ferme la porte de la maison, c'est la première fois depuis 3 mois que je suis seul dehors. Il fait beau. Il n'y a aucun nuage dans le ciel. L'été n'a pas encore vraiment commencé, l'herbe est encore bien verte.",
+"\n Je ferme la porte de la maison, c'est la première fois depuis 3 mois que je suis seul dehors. Il fait beau. Il n'y a aucun nuage dans le ciel. L'été n'a pas encore vraiment commencé, l'herbe est encore bien verte. \n ",
 
-"J'avais oublié la douceur de la brise sur mon visage, le doux parfum des fleurs et surtout leur beauté. Je passe la barrière de notre jardin, je suis dans la rue.",
+"J'avais oublié la douceur de la brise sur mon visage, le doux parfum des fleurs et surtout leur beauté. Je passe la barrière de notre jardin, je suis dans la rue. \n ",
 
-"J'ai envie d'aller prendre un croissant  au «pain chaud», la pâtisserie au coin de notre rue où j'allais tout le temps après l'école avec ma mère.",
+"J'ai envie d'aller prendre un croissant  au «pain chaud», la pâtisserie au coin de notre rue où j'allais tout le temps après l'école avec ma mère. \n ",
 
-"La pâtissière avait l'air surprise de me voir mais elle ne m'a pas questionné. Elle m'a sourit chaleureusement et m'a seulement demandé comment allait Charlotte. «très bien» j'ai répondu.";
+"La pâtissière avait l'air surprise de me voir mais elle ne m'a pas questionné. Elle m'a sourit chaleureusement et m'a seulement demandé comment allait Charlotte. «très bien» j'ai répondu. \n ",
 
-"Juste avant de sortir de la pâtisserie, mon regard tombe sur une petite annonce, une vieille dame cherche quelqu'un pour lui faire les courses, lui faire manger et passer l'aspirateur. Elle habite juste à côté de l'école de Cha.",
+"Juste avant de sortir de la pâtisserie, mon regard tombe sur une petite annonce, une vieille dame cherche quelqu'un pour lui faire les courses, lui faire manger et passer l'aspirateur. Elle habite juste à côté de l'école de Cha. \n ",
 
-"Machinalement je prends mon téléphone, tape le numéro indiqué et attends :",
+"Machinalement je prends mon téléphone, tape le numéro indiqué et attends : \n ",
 
-"\n «-Allô, qui est-ce ?",
+"\n «-Allô, qui est-ce ? \n ",
 
-"\n -Bonjour, je m'appelle ", Victor " , je suis une jeune homme de 26 ans et je suis tombé sur votre annonce à la pâtisserie..",
+"\n -Bonjour, je m'appelle  \n ", // VICTOR
 
-"\n -ah oui, ma nièce a insisté pour mettre ces petites annonces, mais cela ne devait pas être très intéressant, ça fait deux mois déjà et personne ne m'a encore appelé...",
+" , je suis une jeune homme de 26 ans et je suis tombé sur votre annonce à la pâtisserie.. \n ",
 
-"\n -et bien moi ca m'interresse, ma petite soeur est scolarisée juste à côté de chez vous..",
+"\n -ah oui, ma nièce a insisté pour mettre ces petites annonces, mais cela ne devait pas être très intéressant, ça fait deux mois déjà et personne ne m'a encore appelé... \n ",
 
-"\n -oh ! Dans l'école des enfants spéciaux ?",
+"\n -et bien moi ca m'interresse, ma petite soeur est scolarisée juste à côté de chez vous.. \n ",
 
-"\n -c'est ça !",
+"\n -oh ! Dans l'école des enfants spéciaux ? \n ",
 
-"\n -et bien je vous attends demain matin à partir de 9 heures, merci beaucoup d'avoir appeler, je me sentais bien seule.",
+"\n -c'est ça ! \n ",
 
-"\n -merci à vous !»",
+"\n -et bien je vous attends demain matin à partir de 9 heures, merci beaucoup d'avoir appeler, je me sentais bien seule. \n ",
 
-"\n Je n'en reviens pas. J'ai vraiment appeler cette vieille dame ? Je ne peux plus me défiler elle avait l'air vraiment heureuse de m'entendre.",
+"\n -merci à vous !» \n ",
 
-"Il est 11 heures. J'ai loupé mon entretien. Tant pis. Je n'en ai même pas eu besoin, j'ai trouvé un travail.",
+"\n Je n'en reviens pas. J'ai vraiment appeler cette vieille dame ? Je ne peux plus me défiler elle avait l'air vraiment heureuse de m'entendre. \n ",
 
-"Mon téléphone sonne",
+"Il est 11 heures. J'ai loupé mon entretien. Tant pis. Je n'en ai même pas eu besoin, j'ai trouvé un travail. \n ",
 
-"\n «-Allô ", Victor " , je suppose que tu ne viendras pas ?» c'est mon médecin.",
+"Mon téléphone sonne \n ",
 
-"\n «-Non je ne viendrais pas.",
+"\n «-Allô  \n ", // VICTOR
 
-"\n -Tu ne pourras pas repousser toute ta vie ton retour dans le monde..",
+" , je suppose que tu ne viendras pas ?» c'est mon médecin. \n ",
 
-"\n -Je suis à la pâtisserie. J'ai trouvé un métier. Et jusqu'à que tu appelles, j'avais oublié que mon œil gauche ne voyait plus rien, maintenant, je dois vous laissez, c'est bientôt l'heure d'aller chercher ma sœur à l'école.",
+"\n «-Non je ne viendrais pas. \n ",
 
-"\n -Je vois, bonne journée ", Victor " , je suis heureux d'entendre ta voix aussi clair»",
+"\n -Tu ne pourras pas repousser toute ta vie ton retour dans le monde.. \n ",
 
-"\n ~",
+"\n -Je suis à la pâtisserie. J'ai trouvé un métier. Et jusqu'à que tu appelles, j'avais oublié que mon œil gauche ne voyait plus rien, maintenant, je dois vous laissez, c'est bientôt l'heure d'aller chercher ma sœur à l'école. \n ",
 
-"J'ai 5 minutes d'avance. Les parents d'élèves me fixent, ils ne savent pas qui je suis. Mais ils sauront, à force de me voir tous les jours attendre Charlotte à sa sortie de l'école. C'est à moi maintenant d'être son soleil.",
+"\n -Je vois, bonne journée  \n ", // VICTOR
 
-"FIN II",
+" , je suis heureux d'entendre ta voix aussi clair» \n ",
+
+"\n ~ \n ",
+
+"J'ai 5 minutes d'avance. Les parents d'élèves me fixent, ils ne savent pas qui je suis. Mais ils sauront, à force de me voir tous les jours attendre Charlotte à sa sortie de l'école. C'est à moi maintenant d'être son soleil. \n ",
+
+"FIN II \n ",
 
 // Choix 11 :
 
-"Quelle idée de repenser à cela.. mon oeil me tiraille comme si il savait que je pensais à lui... Mon œil. Quelle horreur, cet organe mort au milieu de mon visage.",
+"Quelle idée de repenser à cela.. mon oeil me tiraille comme si il savait que je pensais à lui... Mon œil. Quelle horreur, cet organe mort au milieu de mon visage. \n ",
 
-"La mort qui doit surement se propager à petit feu dans tout mon être. Un jour je deviendrais fou. Ce jour là, il faudra me tuer.",
+"La mort qui doit surement se propager à petit feu dans tout mon être. Un jour je deviendrais fou. Ce jour là, il faudra me tuer. \n ",
 
-"Je me regarde dans la classe. Une moitié de visage humain, l'autre celui d'un mort.",
+"Je me regarde dans la classe. Une moitié de visage humain, l'autre celui d'un mort. \n ",
 
-"Comment Charlotte peut me regarder dans les yeux sans avoir envie de crier et de s'enfuir en pleurant ? Comment peut-elle m'aimer alors que je suis la clé du départ de nos parents.",
+"Comment Charlotte peut me regarder dans les yeux sans avoir envie de crier et de s'enfuir en pleurant ? Comment peut-elle m'aimer alors que je suis la clé du départ de nos parents. \n ",
 
-"Quand elle sera grande, et qu'elle comprendra, comment réagira-t-elle ? Elle me détestera. Elle voudra me chasser sa vie.",
+"Quand elle sera grande, et qu'elle comprendra, comment réagira-t-elle ? Elle me détestera. Elle voudra me chasser sa vie. \n ",
 
-"Non. Je ne peux pas supporter ! Elle doit m'aimer, elle ne peut pas penser que je suis une telle personne ! Elle ne doit pas grandir ! Elle doit m'aimer... je veux qu'elle m'aime !",
+"Non. Je ne peux pas supporter ! Elle doit m'aimer, elle ne peut pas penser que je suis une telle personne ! Elle ne doit pas grandir ! Elle doit m'aimer... je veux qu'elle m'aime ! \n ",
 
-"Je n'ai plus de souffle, mon œil ne voit plus rien, j'ai peur ! Charlotte ! Reste avec moi !",
+"Je n'ai plus de souffle, mon œil ne voit plus rien, j'ai peur ! Charlotte ! Reste avec moi ! \n ",
 
-"CHARLOTTE !",
+"CHARLOTTE ! \n ",
 
 // Choix 18 : Encore dans mon rêve. Il est encore là.
 // Choix 17 : Quel est ton visage ? Je ne te vois plus !
 
 // Choix 12 : + FIN 2
 
-"Je ferme la porte de la maison, c'est la première fois depuis 3 mois que je suis seul dehors. Il fait beau. Il n'y a aucun nuage dans le ciel. L'été n'a pas encore vraiment commencé, l'herbe est encore bien verte.",
+"Je ferme la porte de la maison, c'est la première fois depuis 3 mois que je suis seul dehors. Il fait beau. Il n'y a aucun nuage dans le ciel. L'été n'a pas encore vraiment commencé, l'herbe est encore bien verte. \n ",
 
-"J'avais oublié la douceur de la brise sur mon visage, le doux parfum des fleurs et surtout leur beauté. Je passe la barrière de notre jardin, je suis dans la rue.",
+"J'avais oublié la douceur de la brise sur mon visage, le doux parfum des fleurs et surtout leur beauté. Je passe la barrière de notre jardin, je suis dans la rue. \n ",
 
-"J'ai envie d'aller prendre un croissant  au «pain chaud», la pâtisserie au coin de notre rue où j'allais tout le temps après l'école avec ma mère.",
+"J'ai envie d'aller prendre un croissant  au «pain chaud», la pâtisserie au coin de notre rue où j'allais tout le temps après l'école avec ma mère. \n ",
 
-"La pâtissière avait l'air surprise de me voir mais elle ne m'a pas questionné. Elle m'a sourit chaleureusement et m'a seulement demandé comment allait Charlotte. «très bien» j'ai répondu.",
+"La pâtissière avait l'air surprise de me voir mais elle ne m'a pas questionné. Elle m'a sourit chaleureusement et m'a seulement demandé comment allait Charlotte. «très bien» j'ai répondu. \n ",
 
-"Juste avant de sortir de la pâtisserie, mon regard tombe sur une petite annonce, une vieille dame cherche quelqu'un pour lui faire les courses, lui faire manger et passer l'aspirateur. Elle habite juste à côté de l'école de Cha.",
+"Juste avant de sortir de la pâtisserie, mon regard tombe sur une petite annonce, une vieille dame cherche quelqu'un pour lui faire les courses, lui faire manger et passer l'aspirateur. Elle habite juste à côté de l'école de Cha. \n ",
 
-"Machinalement je prends mon téléphone, tape le numéro indiqué et attends :",
+"Machinalement je prends mon téléphone, tape le numéro indiqué et attends : \n ",
 
-"\n «-Allô, qui est-ce ?",
+"\n «-Allô, qui est-ce ? \n ",
 
-"\n -Bonjour, je m'appelle ", Victor " , je suis une jeune homme de 26 ans et je suis tombé sur votre annonce à la pâtisserie..",
+"\n -Bonjour, je m'appelle  \n ", // VICTOR
 
-"\n -ah oui, ma nièce a insisté pour mettre ces petites annonces, mais cela ne devait pas être très intéressant, ça fait deux mois déjà et personne ne m'a encore appelé...",
+" , je suis une jeune homme de 26 ans et je suis tombé sur votre annonce à la pâtisserie.. \n ",
 
-"\n -et bien moi ca m'interresse, ma petite soeur est scolarisée juste à côté de chez vous..",
+"\n -ah oui, ma nièce a insisté pour mettre ces petites annonces, mais cela ne devait pas être très intéressant, ça fait deux mois déjà et personne ne m'a encore appelé... \n ",
 
-"\n -oh ! Dans l'école des enfants spéciaux ?",
+"\n -et bien moi ca m'interresse, ma petite soeur est scolarisée juste à côté de chez vous.. \n ",
 
-"\n -c'est ça !",
+"\n -oh ! Dans l'école des enfants spéciaux ? \n ",
 
-"\n -et bien je vous attends demain matin à partir de 9 heures, merci beaucoup d'avoir appeler, je me sentais bien seule.",
+"\n -c'est ça ! \n ",
 
-"\n -merci à vous !»",
+"\n -et bien je vous attends demain matin à partir de 9 heures, merci beaucoup d'avoir appeler, je me sentais bien seule. \n ",
 
-"\n Je n'en reviens pas. J'ai vraiment appeler cette vieille dame ? Je ne peux plus me défiler elle avait l'air vraiment heureuse de m'entendre.",
+"\n -merci à vous !» \n ",
 
-"Il est 11 heures. J'ai loupé mon entretien. Tant pis. Je n'en ai même pas eu besoin, j'ai trouvé un travail.",
+"\n Je n'en reviens pas. J'ai vraiment appeler cette vieille dame ? Je ne peux plus me défiler elle avait l'air vraiment heureuse de m'entendre. \n ",
 
-"Mon téléphone sonne",
+"Il est 11 heures. J'ai loupé mon entretien. Tant pis. Je n'en ai même pas eu besoin, j'ai trouvé un travail. \n ",
 
-"\n «-Allô ", Victor " , je suppose que tu ne viendras pas ?» c'est mon médecin.",
+"Mon téléphone sonne \n ",
 
-"\n «-Non je ne viendrais pas.",
+"\n «-Allô  \n ", // VICTOR
 
-"\n -Tu ne pourras pas repousser toute ta vie ton retour dans le monde..",
+" , je suppose que tu ne viendras pas ?» c'est mon médecin. \n ",
 
-"\n -Je suis à la pâtisserie. J'ai trouvé un métier. Et jusqu'à que tu appelles, j'avais oublié que mon œil gauche ne voyait plus rien, maintenant, je dois vous laissez, c'est bientôt l'heure d'aller chercher ma sœur à l'école.",
+"\n «-Non je ne viendrais pas. \n ",
 
-"\n -Je vois, bonne journée ", Victor " , je suis heureux d'entendre ta voix aussi clair»",
+"\n -Tu ne pourras pas repousser toute ta vie ton retour dans le monde.. \n ",
 
-"\n ~",
+"\n -Je suis à la pâtisserie. J'ai trouvé un métier. Et jusqu'à que tu appelles, j'avais oublié que mon œil gauche ne voyait plus rien, maintenant, je dois vous laissez, c'est bientôt l'heure d'aller chercher ma sœur à l'école. \n ",
 
-"J'ai 5 minutes d'avance. Les parents d'élèves me fixent, ils ne savent pas qui je suis. Mais ils sauront, à force de me voir tous les jours attendre Charlotte à sa sortie de l'école. C'est à moi maintenant d'être son soleil.",
+"\n -Je vois, bonne journée  \n ", // VICTOR
 
-“FIN II”,
+" , je suis heureux d'entendre ta voix aussi clair» \n ",
+
+"\n ~ \n ",
+
+"J'ai 5 minutes d'avance. Les parents d'élèves me fixent, ils ne savent pas qui je suis. Mais ils sauront, à force de me voir tous les jours attendre Charlotte à sa sortie de l'école. C'est à moi maintenant d'être son soleil. \n ",
+
+"FIN \n ",
 
 // Choix 13 : + FIN 3
 
-"Peut être que je suis aussi enfin prêt à voir des nouvelles têtes, peut être que le jugement des gens ne me fait plus peur...",
+"Peut être que je suis aussi enfin prêt à voir des nouvelles têtes, peut être que le jugement des gens ne me fait plus peur... \n ",
 
-"~",
+"~ \n ",
 
-"Je ferme la porte de la maison, c'est la première fois depuis 3 mois que je suis seul dehors. Il fait beau. Il n'y a aucun nuage dans le ciel. L'été n'a pas encore vraiment commencé, l'herbe est encore bien verte.",
+"Je ferme la porte de la maison, c'est la première fois depuis 3 mois que je suis seul dehors. Il fait beau. Il n'y a aucun nuage dans le ciel. L'été n'a pas encore vraiment commencé, l'herbe est encore bien verte. \n ",
 
-"J'avais oublié la douceur de la brise sur mon visage, le doux parfum des fleurs et surtout leur beauté. Je passe la barrière de notre jardin, je suis dans la rue.",
+"J'avais oublié la douceur de la brise sur mon visage, le doux parfum des fleurs et surtout leur beauté. Je passe la barrière de notre jardin, je suis dans la rue. \n ",
 
-"J'ai envie d'aller prendre un croissant  au «pain chaud», la pâtisserie au coin de notre rue où j'allais tout le temps après l'école avec ma mère.",
+"J'ai envie d'aller prendre un croissant  au «pain chaud», la pâtisserie au coin de notre rue où j'allais tout le temps après l'école avec ma mère. \n ",
 
-"Je m'attendais à voir la vieille dame toute ronde qu'il y avait autrefois. Sur le chemin, je m'étais demandé comment elle réagirait en me voyant et dans un brin de folie, je suis entré en criant :",
+"Je m'attendais à voir la vieille dame toute ronde qu'il y avait autrefois. Sur le chemin, je m'étais demandé comment elle réagirait en me voyant et dans un brin de folie, je suis entré en criant : \n ",
 
-"\n «et me revoilà, ça sera un croissant s'il te plait !»",
+"\n «et me revoilà, ça sera un croissant s'il te plait !» \n ",
 
-"\n mais là, une voix clair et douce m'a répondu :",
+"\n mais là, une voix clair et douce m'a répondu : \n ",
 
-"\n «pardon ? Madame Ours est partie se reposer aujourd'hui, je suis sa nièce, je la remplace aujourd'hui».",
+"\n «pardon ? Madame Ours est partie se reposer aujourd'hui, je suis sa nièce, je la remplace aujourd'hui». \n ",
 
-"Ce doux son venait de la bouche d'une belle jeune fille aux yeux bleus et aux cheveux bruns courts et bouclés. Ses lèvres rouges dessinent un beau sourire et ses pommettes sont roses et rondes.",
+"Ce doux son venait de la bouche d'une belle jeune fille aux yeux bleus et aux cheveux bruns courts et bouclés. Ses lèvres rouges dessinent un beau sourire et ses pommettes sont roses et rondes. \n ",
 
-"\n -je m’appelle ", Ambre " ",
+"\n -je m’appelle Ambre \n ",
 
-"\n -Et moi ", Victor " ",
+"\n -Et moi  \n ", // VICTOR
 
-"\n Je lui tends ma main, elle met la sienne dedans. Le temps s'arrête. Mon téléphone sonne,  ça doit être le médecin, ou mon entretien. Qu'importe. Ma vie a trouvé un nouveau départ.",
+"\n Je lui tends ma main, elle met la sienne dedans. Le temps s'arrête. Mon téléphone sonne,  ça doit être le médecin, ou mon entretien. Qu'importe. Ma vie a trouvé un nouveau départ. \n ",
 
-“FIN “, III
+"FIN \n ",
 
 // Choix 14 : + FIN 2
 
-"\n -charlotte... charlotte... CHARLOTTE !!!",
+"\n -charlotte... charlotte... CHARLOTTE !!! \n ",
 
-"\n Un goût salé dans ma bouche. J'ai pleuré. Mes joues sont toutes mouillées. Ma Charlotte. Mon rayon de soleil. Je ne peux pas l'abandonner. Comment pourrais-je être autant égoïste ?",
+"\n Un goût salé dans ma bouche. J'ai pleuré. Mes joues sont toutes mouillées. Ma Charlotte. Mon rayon de soleil. Je ne peux pas l'abandonner. Comment pourrais-je être autant égoïste ? \n ",
 
-"Cette petite fille, abandonnée par ses deux parents et son grand frère voudrait en faire autant, la laisser toute seule, vraiment toute seule. Totalement toute seule. Je ne peux pas faire ça. Je n'aurai même pas dû y penser.",
+"Cette petite fille, abandonnée par ses deux parents et son grand frère voudrait en faire autant, la laisser toute seule, vraiment toute seule. Totalement toute seule. Je ne peux pas faire ça. Je n'aurai même pas dû y penser. \n ",
 
-"~",
+"~ \n ",
 
-"Je ferme la porte de la maison, c'est la première fois depuis 3 mois que je suis seul dehors. Il fait beau. Il n'y a aucun nuage dans le ciel. L'été n'a pas encore vraiment commencé, l'herbe est encore bien verte.",
+"Je ferme la porte de la maison, c'est la première fois depuis 3 mois que je suis seul dehors. Il fait beau. Il n'y a aucun nuage dans le ciel. L'été n'a pas encore vraiment commencé, l'herbe est encore bien verte. \n ",
 
-"J'avais oublié la douceur de la brise sur mon visage, le doux parfum des fleurs et surtout leur beauté. Je passe la barrière de notre jardin, je suis dans la rue.",
+"J'avais oublié la douceur de la brise sur mon visage, le doux parfum des fleurs et surtout leur beauté. Je passe la barrière de notre jardin, je suis dans la rue. \n ",
 
-"J'ai envie d'aller prendre un croissant  au «pain chaud», la pâtisserie au coin de notre rue où j'allais tout le temps après l'école avec ma mère.",
+"J'ai envie d'aller prendre un croissant  au «pain chaud», la pâtisserie au coin de notre rue où j'allais tout le temps après l'école avec ma mère. \n ",
 
-"La pâtissière avait l'air surprise de me voir mais elle ne m'a pas questionné. Elle m'a sourit chaleureusement et m'a seulement demandé comment allait Charlotte. «très bien» j'ai répondu.",
+"La pâtissière avait l'air surprise de me voir mais elle ne m'a pas questionné. Elle m'a sourit chaleureusement et m'a seulement demandé comment allait Charlotte. «très bien» j'ai répondu. \n ",
 
-"Juste avant de sortir de la pâtisserie, mon regard tombe sur une petite annonce, une vieille dame cherche quelqu'un pour lui faire les courses, lui faire manger et passer l'aspirateur. Elle habite juste à côté de l'école de Cha.",
+"Juste avant de sortir de la pâtisserie, mon regard tombe sur une petite annonce, une vieille dame cherche quelqu'un pour lui faire les courses, lui faire manger et passer l'aspirateur. Elle habite juste à côté de l'école de Cha. \n ",
 
-"Machinalement je prends mon téléphone, tape le numéro indiqué et attends :",
+"Machinalement je prends mon téléphone, tape le numéro indiqué et attends : \n ",
 
-"\n «-Allô, qui est-ce ?",
+"\n «-Allô, qui est-ce ? \n ",
 
-"\n -Bonjour, je m'appelle ", Victor " , je suis une jeune homme de 26 ans et je suis tombé sur votre annonce à la pâtisserie..",
+"\n -Bonjour, je m'appelle  \n ", // VICTOR
 
-"\n -ah oui, ma nièce a insisté pour mettre ces petites annonces, mais cela ne devait pas être très intéressant, ça fait deux mois déjà et personne ne m'a encore appelé...",
+" , je suis une jeune homme de 26 ans et je suis tombé sur votre annonce à la pâtisserie.. \n ",
 
-"\n -et bien moi ca m'interresse, ma petite soeur est scolarisée juste à côté de chez vous..",
+"\n -ah oui, ma nièce a insisté pour mettre ces petites annonces, mais cela ne devait pas être très intéressant, ça fait deux mois déjà et personne ne m'a encore appelé... \n ",
 
-"\n -oh ! Dans l'école des enfants spéciaux ?",
+"\n -et bien moi ca m'interresse, ma petite soeur est scolarisée juste à côté de chez vous.. \n ",
 
-"\n -c'est ça !",
+"\n -oh ! Dans l'école des enfants spéciaux ? \n ",
 
-"\n -et bien je vous attends demain matin à partir de 9 heures, merci beaucoup d'avoir appeler, je me sentais bien seule.",
+"\n -c'est ça ! \n ",
 
-"\n -merci à vous !»",
+"\n -et bien je vous attends demain matin à partir de 9 heures, merci beaucoup d'avoir appeler, je me sentais bien seule. \n ",
 
-"\n Je n'en reviens pas. J'ai vraiment appeler cette vieille dame ? Je ne peux plus me défiler elle avait l'air vraiment heureuse de m'entendre.",
+"\n -merci à vous !» \n ",
 
-"Il est 11 heures. J'ai loupé mon entretien. Tant pis. Je n'en ai même pas eu besoin, j'ai trouvé un travail.",
+"\n Je n'en reviens pas. J'ai vraiment appeler cette vieille dame ? Je ne peux plus me défiler elle avait l'air vraiment heureuse de m'entendre. \n ",
 
-"Mon téléphone sonne",
+"Il est 11 heures. J'ai loupé mon entretien. Tant pis. Je n'en ai même pas eu besoin, j'ai trouvé un travail. \n ",
 
-"\n «-Allô ", Victor " , je suppose que tu ne viendras pas ?» c'est mon médecin.",
+"Mon téléphone sonne \n ",
 
-"\n «-Non je ne viendrais pas.",
+"\n «-Allô  \n ", // VICTOR
 
-"\n -Tu ne pourras pas repousser toute ta vie ton retour dans le monde..",
+" , je suppose que tu ne viendras pas ?» c'est mon médecin. \n ",
 
-"\n -Je suis à la pâtisserie. J'ai trouvé un métier. Et jusqu'à que tu appelles, j'avais oublié que mon œil gauche ne voyait plus rien, maintenant, je dois vous laissez, c'est bientôt l'heure d'aller chercher ma sœur à l'école.",
+"\n «-Non je ne viendrais pas. \n ",
 
-"\n -Je vois, bonne journée ", Victor " , je suis heureux d'entendre ta voix aussi clair»",
+"\n -Tu ne pourras pas repousser toute ta vie ton retour dans le monde.. \n ",
 
-"\n ~",
+"\n -Je suis à la pâtisserie. J'ai trouvé un métier. Et jusqu'à que tu appelles, j'avais oublié que mon œil gauche ne voyait plus rien, maintenant, je dois vous laissez, c'est bientôt l'heure d'aller chercher ma sœur à l'école. \n ",
 
-"J'ai 5 minutes d'avance. Les parents d'élèves me fixent, ils ne savent pas qui je suis. Mais ils sauront, à force de me voir tous les jours attendre Charlotte à sa sortie de l'école. C'est à moi maintenant d'être son soleil.",
+"\n -Je vois, bonne journée  \n ", // VICTOR
 
-“FIN II”,
+" , je suis heureux d'entendre ta voix aussi clair» \n ",
 
-\\ Choix 15 : + FIN 1
+"\n ~ \n ",
 
-"\n -Charlotte n'a que 7 ans...",
+"J'ai 5 minutes d'avance. Les parents d'élèves me fixent, ils ne savent pas qui je suis. Mais ils sauront, à force de me voir tous les jours attendre Charlotte à sa sortie de l'école. \n ",
 
-"\n Aujourd'hui elle ne veut pas se rendre compte mais en grandissant, elle sera obligé d'ouvrir les yeux et elle me regardera un jour avec ces yeux que je redoute temps, ceux de la déception.. et à ce moment là, ma vie sera totalement finie...",
+"C'est à moi maintenant d'être son soleil. \n ",
 
-"\n -Es tu sûr ?",
+"FIN \n ",
 
-"\n -Oui. J'irai la voir en rêve, je lui dirais que je l'aime elle comprendra, elle saura que je serai toujours là avec elle, tout au long de sa vie.",
+// Choix 15 : + FIN 1
 
-"\n Nos parents seront obligés de revenir. Ils ne pourront plus fuir. Ils apprendront à la connaître, à voir derrière cette intelligence hors norme, une fille incroyable, un réel trésor...",
+"\n -Charlotte n'a que 7 ans... \n ",
 
-"\n -alors c'est pour toi la meilleure solution ?",
+"\n Aujourd'hui elle ne veut pas se rendre compte mais en grandissant, elle sera obligé d'ouvrir les yeux et elle me regardera un jour avec ces yeux que je redoute temps, ceux de la déception.. et à ce moment là, ma vie sera totalement finie... \n ",
 
-"\n -la meilleure.",
+"\n -Es tu sûr ? \n ",
 
-"\n -Soit.»",
+"\n -Oui. J'irai la voir en rêve, je lui dirais que je l'aime elle comprendra, elle saura que je serai toujours là avec elle, tout au long de sa vie. \n ",
 
-"\n Je ne pèse plus rien, mes mouvements fluides ne nécessite aucun effort. Je souris, mon cœur a perdu son leste. Mon cœur est libre, cela fait longtemps que je ne mettais pas sentis aussi bien...",
+"\n Nos parents seront obligés de revenir. Ils ne pourront plus fuir. Ils apprendront à la connaître, à voir derrière cette intelligence hors norme, une fille incroyable, un réel trésor... \n ",
 
-"\n «", Victor " !»",
+"\n -alors c'est pour toi la meilleure solution ? \n ",
 
-"\n La Revillame m'appelle en me tendant un faisceau de lumière pour que je m'y accroche.",
+"\n -la meilleure. \n ",
 
-"Avant de quitter cette chambre, je la balaie une dernière fois des yeux. Mon corps n'est plus dans mon lit mais assis sur mon bureau -encore une crise de somnambulisme-, un stylo à la main.",
+"\n -Soit.» \n ",
 
-"Un mot. Un mot que j'ai écrit pour Charlotte : «Ma Cha, prends soin de toi et n'oublie jamais que je t'aime et que je serais toujours là pour toi...»",
+"\n Je ne pèse plus rien, mes mouvements fluides ne nécessite aucun effort. Je souris, mon cœur a perdu son leste. Mon cœur est libre, cela fait longtemps que je ne mettais pas sentis aussi bien... \n ",
 
-"Je souris. Je peux rejoindre mon nouveau monde maintenant.",
+"\n « \n ", // VICTOR 
 
-“FIN I”,
+" !» \n ",
 
-\\ Choix 16 :
+"\n La Revillame m'appelle en me tendant un faisceau de lumière pour que je m'y accroche. \n ",
 
-" Je tourne déjà depuis vingt minutes dans le salon. A 10h j'ai un éventuel entretien professionnel. À 11h un bilan de vision. Il est 8h30, je suis toujours en jogging.",
+"Avant de quitter cette chambre, je la balaie une dernière fois des yeux. Mon corps n'est plus dans mon lit mais assis sur mon bureau -encore une crise de somnambulisme-, un stylo à la main. \n ",
 
-"Je vais honoré mes deux rendez-vous, je vais arrêter de me terrer entre ces quatres murs. Il faut que je me prépare.",
+"Un mot. Un mot que j'ai écrit pour Charlotte : «Ma Cha, prends soin de toi et n'oublie jamais que je t'aime et que je serais toujours là pour toi...» \n ",
 
-"~",
+"Je souris. Je peux rejoindre mon nouveau monde maintenant. \n ",
 
-"L'eau coule dans mon dos et sur mon visage. Mes yeux sont fermés. Je ne pense à rien.",
+"FIN \n ",
 
-"Si je pense trop, je ne sortirais encore pas aujourd'hui. Je devrais trouver une excuse à mon énième refus de rendez vous de visite oculaire et un simple texto à gars de l'entretien. C'est si simple.",
+// Choix 16 :
 
-"Pourtant, si elle existe, si elle est là dehors... je ne peux pas m'empêcher de me projeter.. et si... et si...",
+" Je tourne déjà depuis vingt minutes dans le salon. A 10h j'ai un éventuel entretien professionnel. À 11h un bilan de vision. Il est 8h30, je suis toujours en jogging. \n ",
 
-"J'arrête l'eau. On dirait qu'elle active ma conscience, me sort de ma routine journalière. Ce n est pas un jet d'eau mais un jet de pensée et de tourments.",
+"Je vais honoré mes deux rendez-vous, je vais arrêter de me terrer entre ces quatres murs. Il faut que je me prépare. \n ",
 
-"La salle de bain est pleine de vapeur, le miroir embué. J'aime ce temps de latence qui laisse apparaître petit à petit le reflet de mon visage.",
+"~ \n ",
 
-"Mes cheveux bruns sont encore mouillés. J'en profite pour les coiffer en arrière, mon visage dégagé, on ne voit plus que mes yeux verts.",
+"L'eau coule dans mon dos et sur mon visage. Mes yeux sont fermés. Je ne pense à rien. \n ",
 
-"Mes yeux. Quiconque me regarde réellement se rend compte de l'immobilité du gauche.",
+"Si je pense trop, je ne sortirais encore pas aujourd'hui. Je devrais trouver une excuse à mon énième refus de rendez vous de visite oculaire et un simple texto à gars de l'entretien. C'est si simple. \n ",
 
-"Lors de ma première visite après la perte de mon œil, mon opticien m'a parlé pendant 30 minutes de tous les risques qui découlent de ma maladie :",
+"Pourtant, si elle existe, si elle est là dehors... je ne peux pas m'empêcher de me projeter.. et si... et si... \n ",
 
-"tumeur au cerveau, perte du deuxième œil, paralysie de la moitié gauche de mon visage sont les trois qui m'ont marqués.",
+"J'arrête l'eau. On dirait qu'elle active ma conscience, me sort de ma routine journalière. Ce n est pas un jet d'eau mais un jet de pensée et de tourments. \n ",
 
-"J'aurai aimé pleurer mais je n'ai pas réussi, j'aurai aimé le frapper mais je me suis retenu, j'aurai aimé remonter le temps mais je n'ai trouvé aucun moyen...",
+"La salle de bain est pleine de vapeur, le miroir embué. J'aime ce temps de latence qui laisse apparaître petit à petit le reflet de mon visage. \n ",
 
-"Alors je me suis contenté d'entendre et d'appréhender aux jours le jours la vie qui allait m'arriver.",
+"Mes cheveux bruns sont encore mouillés. J'en profite pour les coiffer en arrière, mon visage dégagé, on ne voit plus que mes yeux verts. \n ",
+
+"Mes yeux. Quiconque me regarde réellement se rend compte de l'immobilité du gauche. \n ",
+
+"Lors de ma première visite après la perte de mon œil, mon opticien m'a parlé pendant 30 minutes de tous les risques qui découlent de ma maladie : \n ",
+
+"tumeur au cerveau, perte du deuxième œil, paralysie de la moitié gauche de mon visage sont les trois qui m'ont marqués. \n ",
+
+"J'aurai aimé pleurer mais je n'ai pas réussi, j'aurai aimé le frapper mais je me suis retenu, j'aurai aimé remonter le temps mais je n'ai trouvé aucun moyen... \n ",
+
+"Alors je me suis contenté d'entendre et d'appréhender aux jours le jours la vie qui allait m'arriver. \n ",
 
 // Choix 11 :Quelle idée de repenser à cela..
 // Choix 10 : Mais je vois encore. Mon œil droit va bien
 
-Choix 17 : + FIN 4
-"Quel est ton visage ? Je ne te vois plus ! Je ne sais pas qui tu es ! Comment es tu ? Je ne me souviens plus ! Mon soleil a disparu, les nuages étaient plus forts. Plus gros, plus noirs.",
+// Choix 17 : + FIN 4
+"Quel est ton visage ? Je ne te vois plus ! Je ne sais pas qui tu es ! Comment es tu ? Je ne me souviens plus ! Mon soleil a disparu, les nuages étaient plus forts. Plus gros, plus noirs. \n ",
 
-"Excuse moi Charlotte, j'ai perdu contre la vie. Elle a été plus cruelle, plus maligne. Excuse moi, je n'ai pas été à la hauteur. Charlotte n'oublie jamais que je t'aime.",
+"Excuse moi Charlotte, j'ai perdu contre la vie. Elle a été plus cruelle, plus maligne. Excuse moi, je n'ai pas été à la hauteur. Charlotte n'oublie jamais que je t'aime. \n ",
 
-"Charlotte promet moi de grandir, de t'épanouir. De devenir cette belle femme que je vois en toi. De montrer aux parents que derrière ton incroyable cerveau, il y a avant tout toi, une fille formidable, douce et gentille.",
+"Charlotte promet moi de grandir, de t'épanouir. De devenir cette belle femme que je vois en toi. De montrer aux parents que derrière ton incroyable cerveau, il y a avant tout toi, une fille formidable, douce et gentille. \n ",
 
-"\n Pardonne moi Charlotte je t'en pris.",
+"\n Pardonne moi Charlotte je t'en pris. \n ",
 
-"\n Pardonne moi !",
+"\n Pardonne moi ! \n ",
 
-"\n PARDONNE MOI !",
+"\n PARDONNE MOI ! \n ",
 
-"\n Je t'aime tellement...",
-"
-On ne sait pas si ce furent ses derniers mots mais ", Victor " mourut dans la journée.",
+"\n Je t'aime tellement... \n ",
 
-"C'est sa petite sœur, Charlotte qui l'a trouvé en rentrant de l'école. Elle a sûrement beaucoup pleuré. Plus tard, elle écrira dans un livre que son frère était un soleil qui croyait être la pluie...",
+"On ne sait pas si ce furent ses derniers mots mais \n ", // VICTOR
 
-“FIN IV”,
+" mourut dans la journée. \n ",
 
-\\ Choix 18 :
+"C'est sa petite sœur, Charlotte qui l'a trouvé en rentrant de l'école. Elle a sûrement beaucoup pleuré. Plus tard, elle écrira dans un livre que son frère était un soleil qui croyait être la pluie... \n ",
 
-"Encore dans mon rêve. La jeune femme est encore là. Elle essaie de me parler, de me dire quelque chose. Tout à coup, sa voix résonne dans ma tête :",
+"FIN \n ",
 
-"\n -", Victor " réveille toi s'il te plait !",
+// Choix 18 :
 
-"\n -Non, je ne veux pas. Qui que tu sois, aides moi !",
+"Encore dans mon rêve. La jeune femme est encore là. Elle essaie de me parler, de me dire quelque chose. Tout à coup, sa voix résonne dans ma tête : \n ",
 
-"\n Ma vie n'a plus aucun sens, je passe mes journées à attendre la nuit, j'attends de te retrouver, de succomber mais aussi de fuir cette vie noire, ce monde sombre dans lequel je meurs un peu plus chaque jour !";
+"\n - \n ", // VICTOR
 
-"\n -mais, ce n'est même pas la réalité, tu penses sentir mes caresses et mes baisers mais ce ne sont que des tours de ton imagination !",
+" réveille toi s'il te plait ! \n ",
 
-"\n Écoute", Victor ", tu connais la règle des rêves, si tu brusques la porte trop souvent, ton âme se transformera progressivement en revilames et tu ne pourras plus faire marche arrière !",
+"\n -Non, je ne veux pas. Qui que tu sois, aides moi ! \n ",
 
-"\n -Tu es toi même une revillame et tu me dissuades de chercher à en devenir une ? Gardes tu jalousement l'entrée de ton monde ?",
+"\n Ma vie n'a plus aucun sens, je passe mes journées à attendre la nuit, j'attends de te retrouver, de succomber mais aussi de fuir cette vie noire, ce monde sombre dans lequel je meurs un peu plus chaque jour ! \n ",
 
-"\n -Tu n'as pas la même vie que j'avais, personne n'allait me pleurer, personne n'allait remarquer que je ne serais plus ! Mais toi, toi tu as une famille !",
+"\n -mais, ce n'est même pas la réalité, tu penses sentir mes caresses et mes baisers mais ce ne sont que des tours de ton imagination ! \n ",
 
-"\n Tu as ta petite soeur qui t'aime plus que tout. Et qui est aujourd'hui, ton plus beau trésor de ta vie... n'ai je pas raison ?",
+"\n Écoute \n ", // VICTOR  
+
+" , tu connais la règle des rêves, si tu brusques la porte trop souvent, ton âme se transformera progressivement en revilames et tu ne pourras plus faire marche arrière ! \n ",
+
+"\n -Tu es toi même une revillame et tu me dissuades de chercher à en devenir une ? Gardes tu jalousement l'entrée de ton monde ? \n ",
+
+"\n -Tu n'as pas la même vie que j'avais, personne n'allait me pleurer, personne n'allait remarquer que je ne serais plus ! Mais toi, toi tu as une famille ! \n ",
+
+"\n Tu as ta petite soeur qui t'aime plus que tout. Et qui est aujourd'hui, ton plus beau trésor de ta vie... n'ai je pas raison ? \n ",
 
 // Choix 14 : Charlotte... Charlotte... CHARLOTTE !!!
 // Choix 15 : Charlotte sera obligée d'ouvrir les yeux…
-
 
 ];

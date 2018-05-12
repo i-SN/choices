@@ -81,7 +81,7 @@ void onPressed2() {
         decoration: new BoxDecoration(
         image: new DecorationImage(
         fit: BoxFit.fitWidth, 
-        image: lieu=="reve" ? new AssetImage("assets/images/background/reve.png"): new AssetImage("assets/images/background/home.png")),),
+        image: lieu=="reve" ? new AssetImage("assets/images/background/reve.png"): lieu=="maison" ? new AssetImage("assets/images/background/home.png") : new AssetImage("assets/images/background/outside.png") ),),
 
       // --  ----- -- // 
       // --  CORPS -- // 

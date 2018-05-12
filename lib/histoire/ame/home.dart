@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../../utils/bar.dart'; // barre de vie
-import '../../text/text_ame.dart'; // texte
+import '../../TexteConstructor.dart'; // texte
 import '../../bouton/ame/bouton_ame.dart'; // bouton
 
     ///------------------///
@@ -9,35 +9,41 @@ import '../../bouton/ame/bouton_ame.dart'; // bouton
     ///_____Acceuil______///
 
 
-// LIEU // --> AME
-
-// TEXT //
-List<Texte> dialogue = [
-  text[0],
-  text[1],
-  text[2],
-  text[3],
-];
-
 int numero=0; // numero de la page choix
+List<Texte> dialoguepage=[]; // Liste de Texte
+int ligne;
+
 
 // nouvelle page :
 class AmePage extends StatefulWidget {
 
+  List<int> numeroligne=[0,1,2,3,4,5,6,7,8,9,10]; // numéro des paragraphe
   final String nom; // nom du personnage
 
-AmePage(this.nom);
+AmePage(this.nom){
+  dialogue=dialoguepage;
+TexteConstructor para =new TexteConstructor(numeroligne, nom);
+  dialoguepage= dialogue;
+  ligne=dialoguepage[0].ligne;
+}
+
 
 // construction de la classe : //
   @override 
-  AmePageState createState() => new AmePageState(this.nom);
+  State createState() => new AmePageState(this.nom);
 }
 
 class AmePageState extends State<AmePage> {
 
 // variables : //
-final String nom;// nom du personnage
-int ligne=dialogue[0].ligne; // nombre de ligne
+
+String nom;// nom du personnage
+
+// Création de la page : //
+AmePageState(this.nom);
+
+
+ // nombre de ligne
 int pressed=0; //bouton interaction
 double taille=250.0; // talle du texte scrollable
 ScrollController scrollController= new ScrollController(initialScrollOffset: 50.0); // animation du scroll
@@ -50,20 +56,16 @@ void onPressed2() {
   scrollController.animateTo((ligne+2)*20+ligne*3.75, duration: new Duration(seconds: 1), curve: Curves.easeInOut);
   print(scrollController);
   pressed++;
-  if(pressed == dialogue.length) {
+  if(pressed == dialoguepage.length) {
       pressed=0; // reset bouton
       Navigator.of(context).pushAndRemoveUntil(new MaterialPageRoute(builder: (BuildContext context) => boutonchoix[numero]), (Route route) => route == null);
-      ligne=ligne+dialogue[pressed].ligne;
+      ligne=ligne+dialoguepage[pressed].ligne;
       }else{
-        ligne=ligne+dialogue[pressed].ligne;
+        ligne=ligne+dialoguepage[pressed].ligne;
       };
   }); 
 }
 
-
-
-// Création de la page : //
-AmePageState(this.nom);
   @override
   Widget build(BuildContext context) {
     return new Material(
@@ -105,15 +107,22 @@ AmePageState(this.nom);
                       
                         // -- TEXT -- // 
                       new RichText(
-                      textAlign: TextAlign.left,
+                      textAlign: TextAlign.center,
                       maxLines: ligne,
                       overflow: TextOverflow.ellipsis,
                       text:new TextSpan(
                       children: <TextSpan>[
-                        dialogue[0].texte,
-                        dialogue[1].texte,
-                        dialogue[2].texte,
-                        dialogue[3].texte,
+                        dialoguepage[0].texte,
+                        dialoguepage[1].texte,
+                        dialoguepage[2].texte,
+                        dialoguepage[3].texte,
+                        dialoguepage[4].texte,
+                        dialoguepage[5].texte,
+                        dialoguepage[6].texte,
+                        dialoguepage[7].texte,
+                        dialoguepage[8].texte,
+                        dialoguepage[9].texte,
+                        dialoguepage[10].texte,
                           ], 
                         )
                         ),
@@ -123,7 +132,7 @@ AmePageState(this.nom);
 
             // BOUTON //
             new IconButton(
-              icon: pressed == dialogue.length-1 ? new Icon(Icons.expand_more):new Icon(Icons.swap_vert),
+              icon: pressed == dialoguepage.length-1 ? new Icon(Icons.expand_more):new Icon(Icons.swap_vert),
               color: Colors.white,
               iconSize: 80.0,
               onPressed: (){onPressed2();} // interaction
@@ -134,4 +143,3 @@ AmePageState(this.nom);
     );
   }
 }
-

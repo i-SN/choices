@@ -8,6 +8,8 @@ import 'package:flutter/material.dart';
     int ligne; // ligne //
 
     Texte(this.texte, this.ligne);
+    
+
     }
 
 List<Texte> text = [

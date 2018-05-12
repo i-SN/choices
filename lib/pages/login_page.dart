@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../histoire/home.1.dart';
+import '../histoire/ame/home.dart';
 
 
 class Loginscreen extends StatefulWidget {
@@ -18,7 +18,7 @@ class LoginscreenState extends State<Loginscreen> {
     _text=_controller.text;
     if(_text==""){ 
     }else{
-    Navigator.of(context).push(new MaterialPageRoute(builder: (BuildContext context) => new Intro(_text)));
+    Navigator.of(context).push(new MaterialPageRoute(builder: (BuildContext context) => new AmePage(_text)));
     print(_text);
     }
   }

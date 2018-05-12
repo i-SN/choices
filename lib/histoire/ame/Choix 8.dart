@@ -16,12 +16,12 @@ int ligne;
 
 
 // nouvelle page :
-class AmePage extends StatefulWidget {
+class Choix8 extends StatefulWidget {
 
   List<int> numeroligne=[102,103,104,105,106,107,108]; // numéro des paragraphe
   final String nom; // nom du personnage
   bool sexe;
-AmePage(this.nom, this.sexe){
+Choix8(this.nom, this.sexe){
   dialogue=dialoguepage;
 TexteConstructor para =new TexteConstructor(numeroligne, nom, sexe);
   dialoguepage= dialogue;
@@ -31,17 +31,17 @@ TexteConstructor para =new TexteConstructor(numeroligne, nom, sexe);
 
 // construction de la classe : //
   @override 
-  State createState() => new AmePageState(this.nom);
+  State createState() => new Choix8State(this.nom);
 }
 
-class AmePageState extends State<AmePage> {
+class Choix8State extends State<Choix8> {
 
 // variables : //
 
 String nom;// nom du personnage
 
 // Création de la page : //
-AmePageState(this.nom);
+Choix8State(this.nom);
 
 
  // nombre de ligne

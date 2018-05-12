@@ -8,6 +8,7 @@ import '../../bouton/ame/bouton_ame.dart'; // bouton
     ///------------------///
     ///_____Acceuil______///
 
+String lieu="reve"; // lieu:
 
 int numero=0; // numero de la page choix
 List<Texte> dialoguepage=[]; // Liste de Texte
@@ -19,10 +20,10 @@ class AmePage extends StatefulWidget {
 
   List<int> numeroligne=[0,1,2,3,4,5,6,7,8,9,10]; // numéro des paragraphe
   final String nom; // nom du personnage
-
-AmePage(this.nom){
+  bool sexe;
+AmePage(this.nom, this.sexe){
   dialogue=dialoguepage;
-TexteConstructor para =new TexteConstructor(numeroligne, nom);
+TexteConstructor para =new TexteConstructor(numeroligne, nom, sexe);
   dialoguepage= dialogue;
   ligne=dialoguepage[0].ligne;
 }
@@ -58,11 +59,17 @@ void onPressed2() {
   pressed++;
   if(pressed == dialoguepage.length) {
       pressed=0; // reset bouton
+      lieu="reve";// reset lieu
       Navigator.of(context).pushAndRemoveUntil(new MaterialPageRoute(builder: (BuildContext context) => boutonchoix[numero]), (Route route) => route == null);
       ligne=ligne+dialoguepage[pressed].ligne;
+      lieu="reve";// reset lieu
       }else{
         ligne=ligne+dialoguepage[pressed].ligne;
       };
+      dialoguepage.length-1;
+        if(pressed>=4){
+    lieu="maison";
+  }
   }); 
 }
 

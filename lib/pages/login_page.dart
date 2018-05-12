@@ -18,7 +18,7 @@ class LoginscreenState extends State<Loginscreen> {
     _text=_controller.text;
     if(_text==""){ 
     }else{
-    Navigator.of(context).push(new MaterialPageRoute(builder: (BuildContext context) => new AmePage(_text)));
+    Navigator.of(context).push(new MaterialPageRoute(builder: (BuildContext context) => new AmePage(_text, femme)));
     print(_text);
     }
   }

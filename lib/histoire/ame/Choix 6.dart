@@ -67,9 +67,7 @@ void onPressed2() {
         ligne=ligne+dialoguepage[pressed].ligne;
       };
       dialoguepage.length-1;
-        (pressed>=4){
-    lieu="maison";
-  }
+       
   }); 
 }
 

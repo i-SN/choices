@@ -46,7 +46,7 @@ Choix10State(this.nom);
 
  // nombre de ligne
 int pressed=0; //bouton interaction
-double taille=250.0; // talle du texte scrollable
+double taille=210.0; // talle du texte scrollable
 ScrollController scrollController= new ScrollController(initialScrollOffset: 50.0); // animation du scroll
  
 

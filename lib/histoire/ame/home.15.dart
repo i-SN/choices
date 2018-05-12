@@ -22,7 +22,7 @@ class Choix15 extends StatefulWidget {
   final String nom; // nom du personnage
   bool sexe;
 Choix15(this.nom, this.sexe){
-  dialogue=dialoguepage;
+  dialogue=[];
 TexteConstructor para =new TexteConstructor(numeroligne, nom, sexe);
   dialoguepage= dialogue;
   ligne=dialoguepage[0].ligne;
@@ -46,7 +46,7 @@ Choix15State(this.nom);
 
  // nombre de ligne
 int pressed=0; //bouton interaction
-double taille=250.0; // talle du texte scrollable
+double taille=210.0; // talle du texte scrollable
 ScrollController scrollController= new ScrollController(initialScrollOffset: 50.0); // animation du scroll
  
 

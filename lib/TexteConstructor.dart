@@ -4,9 +4,6 @@ import 'text_femme.dart'; // texte entier
 
 
 
-
-int k =2.floor();
-
 // Association texte + nb ligne
 class Texte { 
 

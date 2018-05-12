@@ -122,7 +122,6 @@ void onPressed2() {
                         dialoguepage[7].texte,
                         dialoguepage[8].texte,
                         dialoguepage[9].texte,
-                        dialoguepage[10].texte,
                           ], 
                         )
                         ),

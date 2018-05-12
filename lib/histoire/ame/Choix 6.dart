@@ -10,7 +10,7 @@ import '../../bouton/ame/bouton_ame.dart'; // bouton
 
 String lieu="maison"; // lieu:
 
-int numero=0; // numero de la page choix
+int numero=6; // numero de la page choix
 List<Texte> dialoguepage=[]; // Liste de Texte
 int ligne;
 
@@ -18,7 +18,7 @@ int ligne;
 // nouvelle page :
 class Choix6 extends StatefulWidget {
 
-  List<int> numeroligne=[88;89;90;91;92]; // numéro des paragraphe
+  List<int> numeroligne=[88, 89, 90, 91, 92]; // numéro des paragraphe
   final String nom; // nom du personnage
   bool sexe;
 Choix6(this.nom, this.sexe){

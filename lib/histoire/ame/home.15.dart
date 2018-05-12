@@ -10,7 +10,7 @@ import '../../bouton/ame/bouton_ame.dart'; // bouton
 
 String lieu="reve"; // lieu:
 
-int numero=0; // numero de la page choix
+int numero=15; // numero de la page choix
 List<Texte> dialoguepage=[]; // Liste de Texte
 int ligne;
 

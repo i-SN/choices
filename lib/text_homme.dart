@@ -116,7 +116,7 @@ List<String> textehomme =[
 
 " !\n»\n  \n ",
 
-// Choix 7 : Victor réveille toi s'il te plait !
+// Choix 7 : Victor Réveille toi s'il te plait !
 // Choix 8 : Le plafond, encore et encore le plafond
 
 // Choix 3 :

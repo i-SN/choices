@@ -3,7 +3,7 @@ import '../../utils/bar.dart'; // barre de vie
 import '../../TexteConstructor.dart'; // texte
 import '../../bouton/ame/bouton_ame.dart'; // bouton
 
-    ///------------------///
+    ////------------------////
     //// ---- AME ---- ////7
     ///------------------///
     ///_____Acceuil______///
@@ -13,40 +13,44 @@ String lieu="reve"; // lieu:
 int numero=0; // numero de la page choix
 List<Texte> dialoguepage=[]; // Liste de Texte
 int ligne;
-
+List<int> numerolign=[0,1,2,3,4,5,6,7,8,9,10]; // numéro des paragraphe
 
 // nouvelle page :
-class AmePage extends StatefulWidget {
+class Intropage extends StatefulWidget {
 
-  List<int> numeroligne=[0,1,2,3,4,5,6,7,8,9,10]; // numéro des paragraphe
+  List<int> numeroligne=[]; // numéro des paragraphe
   final String nom; // nom du personnage
   bool sexe;
-AmePage(this.nom, this.sexe){
-  dialogue=dialoguepage;
+Intropage(this.nom, this.sexe){
+  print(sexe);
+  dialogue=[]; // reset bouton
+  print(dialoguepage.length);
+  numeroligne=numerolign;
 TexteConstructor para =new TexteConstructor(numeroligne, nom, sexe);
   dialoguepage= dialogue;
+  print(dialoguepage.length);
   ligne=dialoguepage[0].ligne;
 }
 
 
 // construction de la classe : //
   @override 
-  State createState() => new AmePageState(this.nom);
+  State createState() => new IntropageState(this.nom);
 }
 
-class AmePageState extends State<AmePage> {
+class IntropageState extends State<Intropage> {
 
 // variables : //
 
 String nom;// nom du personnage
 
 // Création de la page : //
-AmePageState(this.nom);
+IntropageState(this.nom);
 
 
  // nombre de ligne
 int pressed=0; //bouton interaction
-double taille=250.0; // talle du texte scrollable
+double taille=210.0; // talle du texte scrollable
 ScrollController scrollController= new ScrollController(initialScrollOffset: 50.0); // animation du scroll
  
 
@@ -66,7 +70,9 @@ void onPressed2() {
       }else{
         ligne=ligne+dialoguepage[pressed].ligne;
       };
-      dialoguepage.length-1;
+      print(dialoguepage.length-1);
+      print(dialogue.length);
+      print(numerolign.length);
         if(pressed>=4){
     lieu="maison";
   }
@@ -99,6 +105,8 @@ void onPressed2() {
               height: 100.0,
               child: new Icon(Icons.people, size:70.0, color: Colors.white,),
             ),
+
+            new Padding(padding: new EdgeInsets.only(top:50.0),),
 
             // new Text("Bonjour ", style: new TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 30.0),),
             // new Text(nom.toUpperCase(),  style: new TextStyle(letterSpacing: 2.0, color: Colors.white, fontWeight: FontWeight.w300, fontSize: 50.0),),

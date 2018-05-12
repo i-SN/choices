@@ -44,8 +44,6 @@ List<String> textefemme =[
 // Choix 6 : Première étape, déjeuner
 
 
-
-
 // Choix 2B : 50/69
 "Désolée Charlotte, un autre monde m'appelle. \n ",
 "\n Je garde les yeux fermés. Je sens ses yeux insistés encore quelques dizaines de secondes puis s'en va en traînant ses pieds. Son souffle s'efface jusqu'à ne laisser que le silence de ma chambre. \n ",
@@ -137,7 +135,7 @@ List<String> textefemme =[
 
 // Choix 7B : 139/147
 "-  \n ", // + // AMBRE 
-" réveille toi s'il te plait ! \n ",
+" Réveille toi s'il te plait ! \n ",
 "\n -Non, je ne veux pas. Qui que tu sois, aide moi ! Ma vie n'a plus aucun sens, je passe mes journées à attendre la nuit, j'attends de te retrouver, de succomber sous tes lèvres, je… \n ",
 "\n -mais, ce n'est même pas la réalité, tu penses sentir mes caresses et mes baisers mais ce ne sont que des tours de ton imagination !  \n ",
 "\n Écoute \n ", // + // AMBRE,

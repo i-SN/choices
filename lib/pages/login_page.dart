@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
-import '../histoire/ame/home.dart';
+import '../histoire/ame/choix 0.dart';
+import '../utils/Joueur.dart';
+
+
+Joueur joueur;
 
 
 class Loginscreen extends StatefulWidget {
@@ -18,7 +22,9 @@ class LoginscreenState extends State<Loginscreen> {
     _text=_controller.text;
     if(_text==""){ 
     }else{
-    Navigator.of(context).push(new MaterialPageRoute(builder: (BuildContext context) => new AmePage(_text, femme)));
+    joueur=new Joueur(femme, _text);
+    print(joueur.femme);
+    Navigator.of(context).push(new MaterialPageRoute(builder: (BuildContext context) => new Intropage(_text, joueur.femme)));
     print(_text);
     }
   }

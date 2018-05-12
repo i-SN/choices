@@ -3,6 +3,7 @@ import '../../utils/bar.dart'; // barre de vie
 import '../../TexteConstructor.dart'; // texte
 import '../../bouton/ame/bouton_ame.dart'; // bouton
 
+
     ///------------------///
     //// ---- AME ---- ////7
     ///------------------///
@@ -10,7 +11,7 @@ import '../../bouton/ame/bouton_ame.dart'; // bouton
 
 String lieu="maison"; // lieu:
 
-int numero=0; // numero de la page choix
+int numero=1; // numero de la page choix
 List<Texte> dialoguepage=[]; // Liste de Texte
 int ligne;
 

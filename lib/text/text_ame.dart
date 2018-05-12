@@ -1,24 +1,6 @@
 import 'package:flutter/material.dart';
 
-// IF HOMME //
 
-          for(int i=0; i<tabPositions.length;i++){
-
-      int rang=tabPositions[i]; // numéro de la ligne
-      
-      // TEXTE constructor
-        if(rang + 1 == 5 || rang + 1 == 51 || rang + 1 ==94 || rang == 97 || rang == 131 || rang ==142 || rang ==147 || rang ==168 || rang ==179 || rang ==184 || rang ==201 || rang ==215 || rang ==226 || rang ==231 ||rang + 1 ==274 || rang ==279 || rang ==284 ){
-          chaine=textehomme[rang] + nom + textehomme[rang+1];
-          i++;
-        }else{
-          chaine=textehomme[rang];
-        }
-
-      // LIGNE constructor
-      lignes =(chaine.length/30).floor() +1;
-      if(chaine.substring(0,1)==sautdeligne){
-        lignes=lignes+1;
-      }
 
       // STYLE constructor --> personne
       if(rang + 1 ==5 || rang + 1 ==6 || rang + 1 ==11 || rang + 1 ==13 || rang + 1 ==18 || rang + 1 ==34 || rang + 1 ==48 ||rang + 1 ==50 || rang + 1 ==52 || rang + 1 ==56 || rang + 1 ==58) {

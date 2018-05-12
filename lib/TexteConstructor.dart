@@ -17,6 +17,9 @@ class TexteConstructor{
 
     if(lignes == 5 || lignes==51 || lignes== 94 || lignes==97 || lignes==131 || lignes==142 || lignes==147 || lignes==168 || lignes==179 || lignes==184 || lignes==201 || lignes==215 || lignes==226 || lignes==231 ||lignes== 274 || lignes==279 || lignes==284 ){};
 
+    List<Texte> dialogue =[]; // liste de texte
+    
+
     for(int i; i<=tabPositions.length;i++){
       tabPositions[i];
       //String temp = json.read();

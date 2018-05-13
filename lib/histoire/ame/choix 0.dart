@@ -24,7 +24,7 @@ class Intropage extends StatefulWidget {
 Intropage(this.nom, this.sexe){
   print(sexe);
   dialogue=[]; // reset bouton
-  print(dialoguepage.length);
+  print(dialoguepage.length); 
   numeroligne=numerolign;
 TexteConstructor para =new TexteConstructor(numeroligne, nom, sexe);
   dialoguepage= dialogue;

@@ -58,11 +58,7 @@ void onPressed2() {
   print(scrollController);
   pressed++;
   if(pressed == dialoguepage.length) {
-      pressed=0; // reset bouton
-      lieu="reve";// reset lieu
-      Navigator.of(context).pushAndRemoveUntil(new MaterialPageRoute(builder: (BuildContext context) => boutonchoix[numero]), (Route route) => route == null);
-      ligne=ligne+dialoguepage[pressed].ligne;
-      lieu="reve";// reset lieu
+     
       }else{
         ligne=ligne+dialoguepage[pressed].ligne;
       };

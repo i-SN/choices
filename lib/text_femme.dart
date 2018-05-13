@@ -19,7 +19,7 @@ List<String> textefemme =[
 // Choix 1B : 20/41
 "«-Bien sur ma Cha !  \n ",
 "\n -je vais mettre mes chaussures avec le noeud rouge !»  \n ",
-"\nCes chaussures avec le noeud rouge, ce sont ses  préférées. Je lui ai offerts à son anniversaire il y a juste trois mois. Chaque fois que je lui offre un cadeau, elle le chérit plus que tout. \n ",
+"\n Ces chaussures avec le noeud rouge, ce sont ses  préférées. Je lui ai offerts à son anniversaire il y a juste trois mois. Chaque fois que je lui offre un cadeau, elle le chérit plus que tout. \n ",
 "Charlotte m'a avoué un jour que c'étaient ses trésors, chacun des présents que je lui faisais. Qu'un jour, elle est sûre que cela lui apportera beaucoup plus que ce que je crois \n ",
 "  J'avoue n'avoir pas trop compris, mais ça a eu l'air de lui faire plaisir. C'est l'important. \n ",
 "Je la regarde accroupis, concentrée sur la boucle dorée. Avec ses petites mains potelées elle peine à faire passer la lanière dedans. \n ",

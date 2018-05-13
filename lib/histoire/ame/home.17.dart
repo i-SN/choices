@@ -140,7 +140,7 @@ void onPressed2() {
 
             // BOUTON //
             new IconButton(
-              icon: pressed == dialoguepage.length-1 ? new Icon(Icons.expand_more):new Icon(Icons.swap_vert),
+              icon: pressed == dialoguepage.length-1 ? null :new Icon(Icons.swap_vert),
               color: Colors.white,
               iconSize: 80.0,
               onPressed: (){onPressed2();} // interaction
